@@ -1,0 +1,13 @@
+{
+  /* TAG INDENT SETTINGS */
+    
+    "empty_tags_close_on_same_line": true,
+    "tags_with_little_content_on_same_line": true,
+    "little_content_means_this_number_of_characters": 140,
+    "preserve_additional_new_lines": true,
+
+  /* END TAG INDENT SETTINGS */
+
+  "enable_live_tag_linting": true,
+  "enable_close_tag_on_slash": true
+}

@@ -1,0 +1,722 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Find",
+				"FindARetailerWidget"
+			],
+			[
+				"B",
+				"document_body"
+			],
+			[
+				"Do",
+				"CurrentDocument"
+			],
+			[
+				"CMS",
+				"CMSContext"
+			],
+			[
+				"Master",
+				"MasterPageFile"
+			],
+			[
+				"CooperTire",
+				"CooperTireConsumer2013"
+			],
+			[
+				"head_",
+				"head_content_placeholder"
+			],
+			[
+				"main_cont",
+				"main_content_placeholder"
+			],
+			[
+				"conten",
+				"content_main"
+			],
+			[
+				"content_m",
+				"content_main_placeholder"
+			],
+			[
+				"main_",
+				"main_cms_pagemanager"
+			],
+			[
+				"header",
+				"header_tags"
+			],
+			[
+				"currentFe",
+				"currentFeatureName"
+			],
+			[
+				"java",
+				"javascript_url"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Act",
+				"ActivityID"
+			],
+			[
+				"mobile",
+				"mobile_javascript"
+			],
+			[
+				"curre",
+				"currentSite"
+			],
+			[
+				"Web",
+				"WebControls"
+			],
+			[
+				"Current",
+				"CurrentDocument"
+			],
+			[
+				"to",
+				"toggle-hidden-files"
+			],
+			[
+				"fah",
+				"fahlgren-dev-error"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pakage",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"package",
+				"Package Control: Grab CA Certs"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"toggle log",
+				"Snippet: toggle-log-commands"
+			],
+			[
+				"togglelog",
+				"Snippet: toggle-log-commands"
+			],
+			[
+				"toggle lo",
+				"Snippet: toggle-log-commands"
+			],
+			[
+				"toggle",
+				"Toggle ScopeAlways"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"preferences",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"Preferences: ",
+				"Preferences: Browse Packages"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"open fil",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"File",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"autocom",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"syntax c",
+				"Set Syntax: C#"
+			],
+			[
+				"mink",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"package con",
+				"Package Control: Grab CA Certs"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"regex",
+				"Snippet: Regex: Match any character through End of File Ignoring line breaks (*2)"
+			],
+			[
+				"",
+				"Bookmarks: Select Previous"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 118.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"log_commands(True)",
+			"print (view.syntax_name(view.sel()[0].b))",
+			"print(source.syntax_name())",
+			"print(view.syntax_name())",
+			"console.print(view.syntax_name(view.sel()[0].b))",
+			"print (view.syntax_name(view.sel()[0].b));",
+			"print (view.syntax_name(view.sel()[0].b))",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/CSharpreter/Default.sublime-commands",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Cache/Default/Ignored Packages.cache",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Installed Packages/CSharpreter.sublime-package",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Cache/Default/Startup.cache",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/CSharpreter/CSharpreter.py",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Snippets/aspx-server-side-comment.sublime-snippet",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Snippets/toggle-log-commands",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/HTML-ASP.sublime-settings",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/ASP.sublime-settings",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/_SWITCH_open-css-file.sublime-macro",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/SNIPPET_css-reset.sublime-snippet",
+		"/Volumes/Users/bwagner/Projects/Sites/cooper-tire/templates/inc/find-a-retailer.asp",
+		"/Volumes/Users/bwagner/Projects/Sites/cooper-tire/site/CMSWebParts/CooperTire/CooperTireConsumer2013/TireNavigatorToolbar.ascx.cs",
+		"/Volumes/Users/bwagner/Projects/Sites/cooper-tire/site/CMSWebParts/CooperTire/CooperTireConsumer2013/TireNavigatorToolbar.ascx",
+		"/Volumes/Users/bwagner/Projects/Sites/cooper-tire/site/CMSWebParts/CooperTire/CooperTireConsumer2013/FindADealerBox.ascx",
+		"/Volumes/Users/bwagner/Projects/Sites/cooper-tire/site/CMSWebParts/CooperTire/CooperTireConsumer2013/FindADealerBox.ascx.cs",
+		"/Volumes/Users/bwagner/Projects/Sites/cooper-tire/site/CMSPages/PortalTemplate.aspx",
+		"/Users/bwagner/Projects/franklin-park-conservatory/fpconservatory-org/web-root/CMSTemplates/FranklinParkConservatory/FPCBruceMunroMicrositeTemplate.aspx.cs",
+		"/Users/bwagner/Projects/franklin-park-conservatory/fpconservatory-org/web-root/CMSTemplates/FranklinParkConservatory/FPCFullPageTemplate.aspx.cs",
+		"/Users/bwagner/Projects/franklin-park-conservatory/fpconservatory-org/web-root/CMSTemplates/FranklinParkConservatory/FPCMasterTemplate.master.cs",
+		"/Users/bwagner/Projects/franklin-park-conservatory/fpconservatory-org/web-root/CMSTemplates/FranklinParkConservatory/FPCSecondaryPageTemplate.aspx.cs",
+		"/Volumes/fahlgren/Users/bwagner/Projects/Sites/cooper-tire/site/CMSTemplates/CooperTireConsumer2013/default.aspx",
+		"/Volumes/wwwroot/cooper-tire/documentation/readme-template.txt",
+		"/Volumes/fahlgren/Users/bwagner/Projects/Sites/cooper-tire/site/CMSTemplates/CooperTireConsumer2013/default.aspx.cs",
+		"/Volumes/fahlgren/Users/bwagner/Projects/Sites/cooper-tire/site/CMSTemplates/CooperTireConsumer2013/masterpages/site.master.cs",
+		"/Volumes/fahlgren/Users/bwagner/Projects/Sites/cooper-tire/site/CMSTemplates/CooperTireConsumer2013/masterpages/site.master",
+		"/Volumes/Users/bwagner/Projects/Sites/cooper-tire/site/CMSTemplates/CooperTireConsumer2013/masterpages/site.master.cs",
+		"/Volumes/Users/bwagner/Projects/Sites/cooper-tire/site/CMSTemplates/CooperTireConsumer2013/masterpages/site.master",
+		"/Users/bwagner/.bash_functions",
+		"/Users/bwagner/.extra.bashrc",
+		"/Users/bwagner/.bash_aliases",
+		"/Volumes/fahlgren/Users/bwagner/Projects/Sites/cooper-tire/.gitignore",
+		"/Volumes/Users/bwagner/Projects/Sites/cooper-tire/.gitignore",
+		"/Volumes/Users/bwagner/Projects/Sites/cooper-tire/site/.gitignore",
+		"/Volumes/fahlgren/Users/bwagner/Projects/Sites/cooper-tire/.git/config",
+		"/Volumes/fahlgren/Users/bwagner/Projects/Sites/cooper-tire/.git/index",
+		"/Volumes/wwwroot/cooper-tire/site/CMSTemplates/CooperTireConsumer2013/masterpages/site.master",
+		"/Volumes/wwwroot/cooper-tire/site/CMSWebParts/CooperTire/CooperTireConsumer2013/FindADealerBox.ascx.cs",
+		"/Volumes/wwwroot/cooper-tire/site/CMSWebParts/CooperTire/CooperTireConsumer2013/FindADealerBox.ascx",
+		"/Volumes/wwwroot/cooper-tire/site/CMSWebParts/CooperTire/CooperTireConsumer2013/Sidebar.ascx.cs",
+		"/Volumes/wwwroot/cooper-tire/site/CMSWebParts/CooperTire/CooperTireConsumer2013/Sidebar.ascx",
+		"/Volumes/wwwroot/cooper-tire/site/CMSTemplates/CooperTireConsumer2013/masterpages/site.master.cs",
+		"/Volumes/wwwroot/cooper-tire/site/CMSWebParts/CooperTire/CooperRoadmaster/FindADealerBox.ascx.cs",
+		"/Volumes/wwwroot/cooper-tire/site/CMSWebParts/CooperTire/CooperRoadmaster/FindADealerBox.ascx",
+		"/Volumes/wwwroot/cooper-tire/site/CMSTemplates/CooperTiresConsumer/ConsumerSponsorshipsTemplate.aspx",
+		"/Volumes/wwwroot/cooper-tire/site/web.config",
+		"/Users/bwagner/Library/Caches/TemporaryItems/Outlook Temp/cooper-updates/readme.txt",
+		"/Volumes/wwwroot/cooper-tire/templates/inc/head.asp",
+		"/Volumes/wwwroot/cooper-tire/templates/inc/footer-nav.asp",
+		"/Volumes/wwwroot/cooper-tire/site/CMSTemplates/CooperMastercraft/MastercraftHomepage.aspx.cs",
+		"/Volumes/wwwroot/cooper-tire/site/CMSTemplates/CooperMastercraft/CooperMastercraft.master",
+		"/Volumes/wwwroot/cooper-tire/site/CMSTemplates/CooperMastercraft/CooperMastercraft.master.cs",
+		"/Volumes/wwwroot/cooper-tire/site/CMSTemplates/CooperMastercraft/MastercraftHomepage.aspx",
+		"/Volumes/wwwroot/cooper-tire/site/CMSTemplates/CooperTireConsumer2013/default.aspx",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/AspNetSwitchPlus/asp_net_switch_commands.py",
+		"/Volumes/wwwroot/cooper-tire/site/CMSTemplates/CooperTireConsumer2013/masterpages/Site.Master",
+		"/Volumes/wwwroot/cooper-tire/site/CMSTemplates/CooperTireConsumer2013/masterpages/Site.Master.cs",
+		"/Users/bwagner/Desktop/Data 4/objecttranslation.xml.export",
+		"/Volumes/wwwroot/cooper-tire/site/CMSSiteUtils/Export/cms_documenttype.xml.export",
+		"/Users/bwagner/Downloads/Parallels Desktop 9/readme.rtf",
+		"/Volumes/wwwroot/cooper-tire/site/CMSSiteUtils/Import/_documenttype_CooperTires_Tire_20131007_ExportForNavigator/Data/Objects/cms_documenttype.xml.export",
+		"/Volumes/wwwroot/cooper-tire/site/CMSSiteUtils/Import/_documenttype_CooperTires_Tire_20131007_ExportForNavigator/Data/objecttranslation.xml.export",
+		"/Users/bwagner/Projects/fahlgren/fahlgrenmortine-com/web-root/sass/agency/_capabilities.scss",
+		"/Users/bwagner/Projects/fahlgren/fahlgrenmortine-com/web-root/app/views/agency/capabilities.blade.php",
+		"/Users/bwagner/Projects/fahlgren/fahlgrenmortine-com/web-root/sass/structure/_toolbar.scss",
+		"/Users/bwagner/Projects/fahlgren/fahlgrenmortine-com/web-root/sass/mediaqueries/_max640px.scss",
+		"/Users/bwagner/Projects/fahlgren/fahlgrenmortine-com/web-root/sass/agency/_locations.scss",
+		"/Users/bwagner/Projects/fahlgren/fahlgrenmortine-com/web-root/app/views/expertise/b2b.blade.php",
+		"/Users/bwagner/Projects/fahlgren/fahlgrenmortine-com/web-root/app/views/agency/index.blade.php",
+		"/Users/bwagner/Projects/fahlgren/fahlgrenmortine-com/web-root/app/views/connect/awards.blade.php",
+		"/Users/bwagner/Projects/fahlgren/fahlgrenmortine-com/web-root/app/views/work/expertises.blade.php",
+		"/Users/bwagner/Projects/fahlgren/fahlgrenmortine-com/web-root/app/views/work/index.blade.php",
+		"/Users/bwagner/Projects/fahlgren/fahlgrenmortine-com/web-root/vendor/symfony/translation/Symfony/Component/Translation/Exception/NotFoundResourceException.php",
+		"/Users/bwagner/Projects/fahlgren/fahlgrenmortine-com/web-root/app/views/connect/index.blade.php",
+		"/Users/bwagner/Desktop/box-shadow.css",
+		"/Volumes/b-wagner-s30/wamp/www/projects/cooper-tire/backup/From Cooper/26August2013/Bak/GlobalObjectExportForFahlgren_08_26_2013/Data/Files/cms_webpart/CMSWebParts/CooperTire/Consumer/TireComparisonAttributes.ascx.export",
+		"/Volumes/b-wagner-s30/wamp/www/projects/cooper-tire/backup/From Cooper/26August2013/Bak/GlobalObjectExportForFahlgren_08_26_2013/Data/Files/cms_webpart/CMSWebParts/CooperTire/Consumer/TireComparisonAttributes.ascx.cs.export",
+		"/Users/bwagner/Bookmarks/projects",
+		"/Volumes/wwwroot/cooper-tire/documentation/new-tasks/PerformanceComparisonMatrix_Fix_04Oct2013/CMSWebParts/CooperTire/Consumer/TireComparisonFeatures.ascx.cs",
+		"/Volumes/wwwroot/cooper-tire/documentation/new-tasks/PerformanceComparisonMatrix_Fix_04Oct2013/CMSWebParts/CooperTire/Consumer/TireComparisonHeader.ascx",
+		"/Volumes/wwwroot/cooper-tire/documentation/new-tasks/PerformanceComparisonMatrix_Fix_04Oct2013/CMSWebParts/CooperTire/Consumer/TireComparisonHeader.ascx.cs",
+		"/Users/bwagner/Library/Caches/Cleanup At Startup/Transmit/31B63397-040D-41FA-ABE8-B828902C2C66/RoadmasterUpdates_03Oct2013_ReadMe.txt",
+		"/Volumes/wwwroot/cooper-tire/documentation/new-tasks/TireDetailPages_PerformanceFeatureUpdate_02Oct2013/ReadMe_02Oct2013.txt",
+		"/Volumes/wwwroot/cooper-tire/site/App_Themes/CooperRoadmaster/js/main.js",
+		"/Volumes/wwwroot/cooper-tire/site/App_Themes/CooperRoadmaster/css/styles.css",
+		"/Users/bwagner/Remote/com.apple.idms.appleid.prd.78534170384576444a71527",
+		"/Users/bwagner/Desktop/MexicoMobileSite_Updates_27Sept2013_ReadMe.txt",
+		"/Users/bwagner/Desktop/ReadMe_CooperRebatesCanadaWinter_25Sept2013.txt",
+		"/Users/bwagner/Desktop/ReadMe_02Oct2013.txt",
+		"/Volumes/b-wagner-s30/z",
+		"/Volumes/b-wagner-s30/xampp/anonymous/onefile.html",
+		"/Volumes/wwwroot/cooper-tire/site/CMSTemplates/CooperTireMexico/ConsumerTireDetailTemplate.aspx.cs",
+		"/Volumes/wwwroot/cooper-tire/site/CMSTemplates/CooperTiresCanada/ConsumerTireDetailTemplate.aspx",
+		"/Users/bwagner/Desktop/tmp/CooperCompare/CMSTemplates/CooperTiresCanada/ConsumerTireDetailTemplate.aspx.cs.export",
+		"/Volumes/wwwroot/cooper-tire/site/CMSTemplates/CooperTiresCanada/ConsumerTireDetailTemplate.aspx.cs",
+		"/Users/bwagner/Desktop/tmp/CooperCompare/CMSTemplates/CooperTireMexico/ConsumerTireDetailTemplate.aspx.cs.export",
+		"/Users/bwagner/Desktop/tmp/ConsumerTireDetailTemplate.aspx.cs",
+		"/usr/local/bin/brew",
+		"/Volumes/wwwroot/cooper-tire/documentation/ReadMe_BaseTemplate.txt",
+		"/Volumes/wwwroot/cooper-tire/documentation/completed tasks/readme_08-23-2012.txt",
+		"/Volumes/wwwroot/cooper-tire/documentation/completed tasks/readme.txt",
+		"/Users/bwagner/Library/KeyBindings/DefaultKeyBinding (1).dict",
+		"/etc/hosts",
+		"/Users/bwagner/Library/Preferences/com.apple.finder.plist",
+		"/Users/bwagner/Library/KeyBindings/Default.idekeybindings",
+		"/Users/bwagner/Library/Application Support/KeyRemap4MacBook/private.xml",
+		"/Users/bwagner/Downloads/libbitcoin-1.0.10/INSTALL",
+		"/Volumes/wwwroot-1/cooper-tire/site/CMSTemplates/CooperTiresMobileCanada/Mobile.master.cs",
+		"/Users/bwagner/Projects/franklin-park-conservatory/fpconservatory-org/web-root/.gitignore",
+		"/Volumes/wwwroot-1/cooper-tire/site/CMSTemplates/CooperTiresConsumer/ConsumerTireDetailTemplate.aspx.cs",
+		"/Applications/MAMP/conf/apache/extra/httpd-vhosts.conf",
+		"/Volumes/wwwroot-1/cooper-tire/site/CMSTemplates/CooperTireMexico/ConsumerTireDetailTemplate.aspx.cs",
+		"/Volumes/wwwroot-1/cooper-tire/site/CMSTemplates/CooperTiresCanada/ConsumerTireDetailTemplate.aspx.cs",
+		"/Volumes/wwwroot-1/cooper-tire/site/CMSTemplates/CooperTiresMobileCanada/Mobile.master",
+		"/Volumes/wwwroot-1/cooper-tire/site/CMSTemplates/CooperTireMexico/CooperTireConsumer.master.cs",
+		"/Users/bwagner/Projects/common-code/mere/js/jquery.mere-ga-event-tracking-v2.js",
+		"/Users/bwagner/Projects/common-code/mere/jquery-mere-ga-event-tracking.html",
+		"/Users/bwagner/Remote/Dropbox/fpc-tracking.js",
+		"/Volumes/b-wagner-s30/inetpub/wwwroot/fpconservatory-org/CMSTemplates/FranklinParkConservatory/FPCMasterTemplate.master.cs",
+		"/Volumes/b-wagner-s30/inetpub/wwwroot/fpconservatory-org/CMSTemplates/FranklinParkConservatory/FPCMasterTemplate.master",
+		"/Volumes/wwwroot/cooper-tire/site/CMSTemplates/CooperTireRebates/HomeTemplate.aspx",
+		"/Volumes/wwwroot/cooper-tire/site/App_Themes/CooperTireRebates/js/base.js",
+		"/Volumes/wwwroot/cooper-tire/site/CMSTemplates/CooperTireRebates/CooperTireRebates.master",
+		"/Applications/Adobe Dreamweaver CS6/Configuration/KeyboardLayouts.xml",
+		"/Volumes/wwwroot/cooper-tire/documentation/completed tasks/Mexico_ImageMap_Updates.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"bwagner",
+			"/Users/bwagner/projects/fahlgren/fahlgrenmortine/web-root/public/assets/js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"interp",
+			"ctrl+",
+			"auto",
+			"up",
+			"uc_widget_FindARetailerWidge\"",
+			"tire_navigator_toolbar",
+			"<!--(.*)-->",
+			"<!--",
+			"FindADealerBox",
+			"attributes.add",
+			"fullnav",
+			"body",
+			"ID=\"",
+			"ID",
+			"uc_smMain",
+			"script",
+			"inc",
+			"(.*?)?suo(.*)",
+			"(.*?)?sln(.*)",
+			"(.*?)?CMSSiteUtils(.*)",
+			"(.*?)(              |\\n)",
+			"Cooperroadmaster",
+			"CMSWebParts_CooperTire_CooperRoadmaster",
+			"coopertires",
+			"States",
+			"states",
+			"state",
+			"filters",
+			"content",
+			"uc_cphMainContent",
+			"uc_",
+			"uc_cpmMain",
+			"page",
+			"create",
+			"inc/",
+			"../site",
+			"ContentMain",
+			"hist",
+			".map-nav",
+			"height",
+			"vimeo",
+			"vid",
+			"vimeo",
+			"VI",
+			"vimeo",
+			"450218925_960",
+			"450218925_960.jpg",
+			"http://b.vimeocdn.com/ts/450/218/450218925_960.jpg",
+			"i",
+			"toolbar",
+			"shadow",
+			"drop",
+			"drop-shadow",
+			"’",
+			"\\n",
+			"ie ",
+			"ie",
+			"FALSE",
+			"en0",
+			"hid",
+			"hide",
+			"GetCur",
+			"currentFeatureName",
+			"warrant",
+			"Warran",
+			"warrant",
+			"warrant\\",
+			"warrant",
+			"warra",
+			"ctr",
+			"Cont",
+			"mac",
+			"Css",
+			"GetCurrententFeatureHtml",
+			"rrentDocument.DataRow[\"TireRegional\"].ToString(), ResHelper.LocalizeString(\"{$comparisonMatrix.Regional$}\"));",
+			"GetCurrententFeatureHtml",
+			"GetCurrententFeatureHtml(",
+			"GetCurrententFeatureHtml(_currentDocument.DataRow[",
+			"comparison_matrix.InnerHtml += GetCurrentFeatureHtml",
+			"comparison_matrix.InnerHtml +=",
+			"comparison_matrix.InnerHtml += GetCurrententFeatureHtml(_currentDocument.DataRow[",
+			"comparison_matrix",
+			"comparison_matrix.InnerHtml += GetCurrententFeatureHtml(_currentDocument.DataRow[",
+			"comparison_matrix.InnerHtml += GetCurrententFeatureHtml(",
+			"comparison_matrix.InnerHtml += GetCurrententFeatureHtml(_currentDocument.DataRow[",
+			"comparison_matrix.InnerHtml += GetCurrententFeatureHtml(",
+			"comparison_matrix.InnerHtml += GetCurrententFeatureHtml(_currentDocument.DataRow[",
+			"comparison_matrix.InnerHtml +=",
+			"comparison_matrix.InnerHtml += comparison_matrix.InnerHtml += ",
+			"\\n(.*[s]?)Get",
+			";GetCurr",
+			"\\n(.*[s]?)Get",
+			"(.*[\\s])GetCurrentFeatureHtml(",
+			"\\$\\}\"\\)\\)\\n",
+			".ToString\\(,(.*[s]?)Res",
+			".*?GetCurrentFeatureCssClasses\\((.*?)\\).*\\n.*\\n.*\\n.*\\n(.*?Res.*?\")\\).*",
+			".*?GetCurrentFeatureCssClasses\\((.*?)\\)",
+			"comparison_matrix.InnerHtml += \"<li class='\" + GetCurrentFeatureCssClasses(",
+			"\" + GetCurrentFeatureCssClasses(_currentDocument.DataRow[\"TireDryTraction\"].ToString()) +",
+			"string.",
+			"\"' /></span></span>",
+			"alt=",
+			"\"' /></span></span>",
+			"alt=",
+			";",
+			"\\+\\n",
+			"\\+ \\n",
+			"+ \\n",
+			" alt='\" +\n          _currentDocument.DataRow[\"TireDryTraction\"] +\n          \"",
+			"alt",
+			"\\(this\\)",
+			"this)",
+			"this.",
+			"strpdfn",
+			"custom",
+			" - (.*)",
+			" - site",
+			" modified:   ",
+			"uc_cpmMain",
+			"ctl00_uc_cpmMain",
+			"logo",
+			"currentDocument",
+			"hide",
+			"show",
+			"popover",
+			"100",
+			"blog.fahlgrenmortine.com/tag/",
+			"blog"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"uc_widget_FindARetailerWidget\"",
+			"uc_widget_TireNavigatorToolbar",
+			"<%--\\1--%>",
+			"<%--",
+			"FindARetailerWidget",
+			"id=\"",
+			"id",
+			"",
+			"site/\\1\\n",
+			"CooperTireConsumer2013",
+			"CMSWebParts_CooperTire_CooperTireConsumer2013",
+			"main_content_placeholder",
+			"../inc/",
+			"",
+			"content_main",
+			"'",
+			"\\n\\n</p>\n    </blockquote>      \n    <blockquote>",
+			"GetCurrentFeatureHtml",
+			"comparison_matrix.InnerHtml += GetCurrententFeatureHtml(",
+			"comparison_matrix.InnerHtml += GetCurrententFeatureHtml(_currentDocument.DataRow[",
+			"GetCurrentFeatureHtml",
+			"comparison_matrix.InnerHtml += ",
+			"\\n\\1comparison_matrix.InnerHtml += Get",
+			";\\nGetCurrent",
+			"\\n;GetCurrent",
+			"\\n\\1comparison_matrix.InnerHtml += Get",
+			"$}\"));",
+			".ToString(), Res",
+			"GetCurrentFeatureHtml(\\1, \\2))",
+			"\\1",
+			"\" + GetCurrentFeatureCssClasses(\"{0}\") +",
+			"\" / 10' /></span></span>",
+			"title=",
+			"\" / 10' /></span></span>",
+			"title=",
+			";\\n",
+			"cp site\\1 documentation/new-tasks/MexicoMobileSite_Updates_27Sept2013\\1",
+			" - ",
+			"- ",
+			"currentDocumentTitle",
+			"blog.fahlgrenmortine.com/category/",
+			"super",
+			"/winter.aspx\"",
+			"/ttmr.aspx\"",
+			"/winter.aspx\"",
+			"cmd",
+			"- ",
+			"\\1   •",
+			" \\1  •",
+			" -",
+			"<br/><p><b><i>",
+			"'",
+			"\"",
+			"</i></b>\\n</p>\\n<p>",
+			"</i></b>\\n</p>",
+			"</p>",
+			"</p>\\n<p>",
+			"</p>",
+			"</p>\\n\\n<p>",
+			"Users/bwagner/Projects",
+			"=> '\\2.jpg",
+			"'\\2.jpg",
+			"\"\\2",
+			"\"\\1",
+			"[",
+			"                ",
+			",\\n\\1[",
+			"            [\n                'fname' => \"\",\n                'lname' => \"\\1\",\n                'title' => '',\n                'culture' => false,\n                'leadership' => false,\n                'bio' => '',\n                'tagline' => \"\",\n                'img' => '\\1.jpg',\n                'created_at' => new DateTime,\n                'updated_at' => new DateTime\n            ],  ",
+			"\"title\" => '\\1 | Fahlgren Mortine'",
+			", \\1",
+			", ",
+			", \\n",
+			"bwagner",
+			"addEvent",
+			"subl",
+			"/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 106.0
+	},
+	"output.find_results":
+	{
+		"height": 118.0
+	},
+	"output.reg_replace_results":
+	{
+		"height": 100.0
+	},
+	"project": "SublimeSettings.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"settings",
+				"ASP.sublime-settings"
+			],
+			[
+				"findaretai",
+				"CMSWebParts/CooperTire/CooperTireConsumer2013/FindARetailerWidget.ascx"
+			],
+			[
+				"/v",
+				"/Volumes/fahlgren/Users/bwagner/Projects/Sites/cooper-tire/site/CMSTemplates/CooperTireConsumer2013/default.aspx"
+			],
+			[
+				"toolb",
+				"/Volumes/wwwroot/cooper-tire/templates/inc/toolbar.asp"
+			],
+			[
+				"someofour",
+				"vendor/symfony/translation/Symfony/Component/Translation/Exception/NotFoundResourceException.php"
+			],
+			[
+				"refres",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 499.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

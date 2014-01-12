@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[<%-- $SELECTION$1 --%>]]></content>
+
+  <!-- Optional: Tab trigger to activate the snippet -->
+  <tabTrigger>comment</tabTrigger>
+  <!-- Optional: Scope the tab trigger will be active in -->
+  <scope>text.html.asp</scope>
+  <!-- Optional: Description to show in the menu -->
+  <description>ASPX Comment (server side) </description>
+</snippet>

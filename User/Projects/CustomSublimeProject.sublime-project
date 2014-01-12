@@ -1,0 +1,42 @@
+/* Cooper Tire Kentico */
+{
+
+/* Directory Rules */
+"folders": [
+  {
+    "name": "App Themes (Cooper Tire Consumer 2013)",
+    "path": "site/App_Themes/CooperTireConsumer2013",
+    "follow_symlinks": true
+  }, 
+  {
+    "name": "Web Parts (Cooper Tire Consumer 2013)",
+    "path": "site/CMSWebParts/CooperTire/CooperTireConsumer2013",
+    "follow_symlinks": true
+  }, 
+  {
+    "name": "Templates (Cooper Tire Consumer 2013)",
+    "path": "site/CMSTemplates/CooperTireConsumer2013",
+    "follow_symlinks": true,
+    "file_exclude_patterns": ["webparts", "themes"]
+  }, 
+  {
+    "path": "documentation",
+    "name": "Documentation",
+    "folder_exclude_patterns": ["completed-tasks"],
+    "file_exclude_patterns": [".*"]
+  }
+],
+
+/* Settings */
+"settings": 
+  {
+    "tab_size": 4,
+    "close_windows_when_empty": false
+  },
+
+/* Build Systems */
+"build_systems": [ 
+  { "name": "List", "cmd": ["ls"] } 
+]
+
+}

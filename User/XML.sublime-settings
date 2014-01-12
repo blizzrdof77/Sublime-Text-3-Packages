@@ -1,0 +1,15 @@
+{
+	"detect_indentation": true,
+	"extensions":
+	[
+		"xml",
+		"xsd",
+		"xslt",
+		"svg",
+		"config",
+		"tmPreferences",
+		"stTheme",
+		"tmTheme",
+		"export"
+	]
+}

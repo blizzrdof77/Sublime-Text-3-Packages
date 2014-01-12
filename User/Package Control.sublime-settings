@@ -1,0 +1,36 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Bracketeer",
+		"BracketHighlighter",
+		"Comments Aware Enter",
+		"CSScomb",
+		"Enhanced HTML and CFML",
+		"FileDiffs",
+		"Front End Snippets",
+		"HTML-CSS-JS Prettify",
+		"jQuery Snippets pack",
+		"JS Snippets",
+		"JsFormat",
+		"Less Tabs",
+		"Open-Include",
+		"Phpcs",
+		"RegReplace",
+		"ScopeAlways",
+		"SideBarEnhancements",
+		"StringEncode",
+		"SublimeCodeIntel",
+		"Syntax Highlighting for Sass",
+		"Syntax Manager",
+		"Tag",
+		"TidyHTML5"
+	],
+	"repositories":
+	[
+		"https://github.com/timdouglas/sublime-less2css",
+		"https://github.com/SublimeLinter/SublimeLinter.git",
+		"https://github.com/ajryan/CSharpreter"
+	]
+}

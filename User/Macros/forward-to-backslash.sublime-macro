@@ -1,0 +1,10 @@
+[
+  {
+    "args": 
+    {
+      "replacements": ["forward_to_backslash"] 
+    },
+    "command": "reg_replace"
+  }
+  
+]

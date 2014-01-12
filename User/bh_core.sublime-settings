@@ -1,0 +1,21 @@
+{
+
+    // When only either the left or right bracket can be found
+    // this defines if the unmatched bracket should be shown.
+    "show_unmatched" : true,
+
+    // Match brackets only when the cursor is touching the inside of the bracket
+    "match_only_adjacent": false,
+
+    // Character threshold to search
+    "search_threshold": 5000,
+
+    // Ignore threshold
+    "ignore_threshold": true,
+
+    // Set max number of multi-select brackets that will be searched automatically
+    "auto_selection_threshold" : 10,
+
+    // Disable gutter icons when doing multi-select
+    "no_multi_select_icons": false
+}

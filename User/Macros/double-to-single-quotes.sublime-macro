@@ -1,0 +1,10 @@
+[
+  {
+    "args": 
+    {
+      "replacements": ["double_to_single_quotes"] 
+    },
+    "command": "reg_replace"
+  }
+  
+]

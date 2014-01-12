@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[/* <== REMOVED: $SELECTION$1 (BJW) */]]></content>
+
+  <!-- Optional: Tab trigger to activate the snippet -->
+  <tabTrigger>/note</tabTrigger>
+  <!-- Optional: Scope the tab trigger will be active in -->
+  <scope>source.css,source.js,source.php,source.cs,source.scss</scope>
+  <!-- Optional: Description to show in the menu -->
+  <description>/Comment Note</description>
+</snippet>
