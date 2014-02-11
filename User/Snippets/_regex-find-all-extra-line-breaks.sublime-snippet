@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+\n([\s]*[\s])+([\s]*[\s])+([\s]*[\s])\n
+]]></content>
+  <!-- Optional: Tab trigger to activate the snippet -->
+  <tabTrigger>*\n</tabTrigger>
+  <!-- Optional: Scope the tab trigger will be active in -->
+  <!-- <scope>text.html.asp</scope> -->
+  <!-- Optional: Description to show in the menu -->
+  <description>Regex: Match Extra Line Breaks (*\n)</description>
+</snippet>

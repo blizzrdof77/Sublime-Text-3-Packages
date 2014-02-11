@@ -1,0 +1,1615 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Attach",
+				"AttachmentLightboxGallery"
+			],
+			[
+				"box-s",
+				"-moz-box-shadow:   (property)"
+			],
+			[
+				"offs",
+				"offset_b"
+			],
+			[
+				"findt",
+				"findText_a"
+			],
+			[
+				"fonts",
+				"font-smoothing"
+			],
+			[
+				"Tech",
+				"Technologies"
+			],
+			[
+				"s",
+				"section"
+			],
+			[
+				"chinese",
+				"chineseschool"
+			],
+			[
+				"get",
+				"get_bloginfo"
+			],
+			[
+				"strto",
+				"strtok"
+			],
+			[
+				"on",
+				"onselectedindexchanged"
+			],
+			[
+				"NodeA",
+				"NodeAliasPath"
+			],
+			[
+				"Quer",
+				"QueryHelper"
+			],
+			[
+				"strSr",
+				"strSrcImg1Full"
+			],
+			[
+				"View",
+				"ViewOptionsClickFix"
+			],
+			[
+				"Image",
+				"ImageUrl"
+			],
+			[
+				"match",
+				"matchingNodes"
+			],
+			[
+				"thisTire",
+				"thisTireInternalId"
+			],
+			[
+				"tes",
+				"testimonialsRepeater"
+			],
+			[
+				"nod",
+				"NodeAliasPath"
+			],
+			[
+				"Http",
+				"HttpUtility"
+			],
+			[
+				"ren",
+				"rename_vehicle"
+			],
+			[
+				"preven",
+				"preventDefault"
+			],
+			[
+				"objCur",
+				"objCurrentVehicle"
+			],
+			[
+				"save",
+				"saved-vehicles"
+			],
+			[
+				"AddVehicle",
+				"AddVehicleClicked"
+			],
+			[
+				"btn",
+				"btn_vehicle"
+			],
+			[
+				"A",
+				"Add"
+			],
+			[
+				"tex",
+				"textbox_vehicle"
+			],
+			[
+				"link",
+				"li_vehicle_link"
+			],
+			[
+				"uc_",
+				"uc_vehicleList"
+			],
+			[
+				"strTire",
+				"strTireTestInfo"
+			],
+			[
+				"Initi",
+				"InitializeOverlays"
+			],
+			[
+				"Init",
+				"InitializeOverlay"
+			],
+			[
+				"_curre",
+				"_currentTestimonial"
+			],
+			[
+				"Generic",
+				"GenericItem"
+			],
+			[
+				"stand",
+				"standard_tire_size_data"
+			],
+			[
+				"custom-overl",
+				"custom-overlay-mask"
+			],
+			[
+				"prev",
+				"preventDefault"
+			],
+			[
+				"Selec",
+				"SelectedIndex"
+			],
+			[
+				"strPr",
+				"strPromoUrl"
+			],
+			[
+				"welcom_",
+				"welcome_gallery_repeater"
+			],
+			[
+				"wel",
+				"welcome_gallery_repeater"
+			],
+			[
+				"im",
+				"welcome_img"
+			],
+			[
+				"welcome",
+				"welcome_gallery_repeater"
+			],
+			[
+				"Te",
+				"Text"
+			],
+			[
+				"welcom",
+				"welcome_img"
+			],
+			[
+				"Proce",
+				"ProcessFile"
+			],
+			[
+				"welc",
+				"welcome_img"
+			],
+			[
+				"Soc",
+				"SocialMediaShares"
+			],
+			[
+				"test",
+				"testimonials"
+			],
+			[
+				"CooperT",
+				"CooperTestimonials"
+			],
+			[
+				"Test",
+				"Testimonials"
+			],
+			[
+				"TireDet",
+				"TireDetailGet"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"strP",
+				"strPromoImage"
+			],
+			[
+				"FindA",
+				"FindARetailerWidget"
+			],
+			[
+				"F",
+				"FindADealerClick"
+			],
+			[
+				"Deal",
+				"DealerLocator"
+			],
+			[
+				"obj",
+				"objIframe"
+			],
+			[
+				"locat",
+				"locator"
+			],
+			[
+				"Mobile",
+				"MobileDetect"
+			],
+			[
+				"dev",
+				"deviceWidth"
+			],
+			[
+				"locator_i",
+				"locator_iframe_mobile"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Even",
+				"EventArgs"
+			],
+			[
+				"page",
+				"page_title"
+			],
+			[
+				"Attri",
+				"Attributes"
+			],
+			[
+				"Sql",
+				"SqlDataAdapter"
+			],
+			[
+				"Docume",
+				"DocumentName"
+			],
+			[
+				"IsA",
+				"IsPromoActive"
+			],
+			[
+				"promo",
+				"promotion"
+			],
+			[
+				"UserIn",
+				"UserInfoProvider"
+			],
+			[
+				"Edit",
+				"EditableImage"
+			],
+			[
+				"Child",
+				"CreateChildControls"
+			],
+			[
+				"T",
+				"Text"
+			],
+			[
+				"Remove",
+				"RemoveCssClass"
+			],
+			[
+				"_srcImg1",
+				"_srcImg1Thumb"
+			],
+			[
+				"_srcI",
+				"_srcImg1Full"
+			],
+			[
+				"_srcIm",
+				"_srcImg2Thumb"
+			],
+			[
+				"Bre",
+				"BriefTextOverview"
+			],
+			[
+				"compar",
+				"comparison_matrix"
+			],
+			[
+				"uc_th",
+				"uc_tchTireThree"
+			],
+			[
+				"pageN",
+				"pageNodePath"
+			],
+			[
+				"Dat",
+				"DataRow"
+			],
+			[
+				"nodeAl",
+				"_nodeAliasPath"
+			],
+			[
+				"uc_tir",
+				"uc_tireOverview"
+			],
+			[
+				"Literal",
+				"Literal"
+			],
+			[
+				"Current",
+				"CurrentDocument"
+			],
+			[
+				"Brief",
+				"BriefFeaturedTextOverview"
+			],
+			[
+				"Sele",
+				"SelectedIndex"
+			],
+			[
+				"uc_ddlY",
+				"uc_ddlYear"
+			],
+			[
+				"Selected",
+				"SelectedValue"
+			],
+			[
+				"System",
+				"SystemAlert"
+			],
+			[
+				"Get",
+				"GetSearchResults"
+			],
+			[
+				"cat",
+				"categoryText"
+			],
+			[
+				"desk",
+				"desktop_retailers"
+			],
+			[
+				"Att",
+				"Attribute"
+			],
+			[
+				"USER",
+				"UserControl"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"uc_tire",
+				"uc_tireCategoryRepeater"
+			],
+			[
+				"categ",
+				"categoryName"
+			],
+			[
+				"Curr",
+				"CurrentDocument"
+			],
+			[
+				"NodeL",
+				"NodeAlias"
+			],
+			[
+				"uc_img0",
+				"uc_img03"
+			],
+			[
+				"uc_im",
+				"uc_img03"
+			],
+			[
+				"ve",
+				"vehicle_2_container"
+			],
+			[
+				"vehi",
+				"vehicle_2_container"
+			],
+			[
+				"User",
+				"UserSettings"
+			],
+			[
+				"init",
+				"InitUserSettings"
+			],
+			[
+				"use",
+				"userSettings2"
+			],
+			[
+				"vehicl",
+				"vehicle_1"
+			],
+			[
+				"global",
+				"globalCookie"
+			],
+			[
+				"user",
+				"userSettings1"
+			],
+			[
+				"glob",
+				"globalCookie"
+			],
+			[
+				"Use",
+				"UserSettings"
+			],
+			[
+				"UserS",
+				"UserSettings1"
+			],
+			[
+				"vh",
+				"vehicle_3"
+			],
+			[
+				"veh",
+				"vehicle_2"
+			],
+			[
+				"vehic",
+				"vehicle_1"
+			],
+			[
+				"auto_complet",
+				"auto_complete_with_fields"
+			],
+			[
+				"auto_",
+				"auto_complete"
+			],
+			[
+				"sublime",
+				"sublime_plugin"
+			],
+			[
+				"Find",
+				"FindARetailerWidget"
+			],
+			[
+				"B",
+				"document_body"
+			],
+			[
+				"Do",
+				"CurrentDocument"
+			],
+			[
+				"CMS",
+				"CMSContext"
+			],
+			[
+				"Master",
+				"MasterPageFile"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 188.0,
+		"selected_items":
+		[
+			[
+				"regrepl",
+				"Snippet: REGEX: Match tag w/ preceeding/proceeding linebreaks"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"math any",
+				"Snippet: Regex: Match any character through End of File Ignoring line breaks (*2)"
+			],
+			[
+				"toggle",
+				"Toggle ScopeAlways"
+			],
+			[
+				"syntax: ASP",
+				"Set Syntax: ASP"
+			],
+			[
+				"specif",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"syntax: asp",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"remove attributes",
+				"Tag: Remove All Attributes From Tags in Selection"
+			],
+			[
+				"remove attribute",
+				"Tag: Remove Picked Attributes From Tags in Selection"
+			],
+			[
+				"auto-",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"auto ",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"tags",
+				"Tag: Lint Selection or Document"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"php ",
+				"Set Syntax: PHP 5"
+			],
+			[
+				"syntax: ht",
+				"Set Syntax: Enhanced HTML"
+			],
+			[
+				"syntax: php",
+				"Set Syntax: PHP 5"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"valid",
+				"Tag: Remove All Attributes From Tags in Document"
+			],
+			[
+				"set syntax: html",
+				"Set Syntax: Enhanced HTML"
+			],
+			[
+				"settings synt",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"preferences",
+				"Preferences: Settings - Default"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"word wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"selection",
+				"Tag: Remove All Tags in Selection"
+			],
+			[
+				"change",
+				"BracketHighlighter: Select Tag Name (closing and opening)"
+			],
+			[
+				"keybi",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"regexsn",
+				"Snippet: Regex: Match any character through End of File Ignoring line breaks (*2)"
+			],
+			[
+				"syntax:ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax: htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax: html",
+				"Set Syntax: HTML"
+			],
+			[
+				"terminal",
+				"Open in terminal"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packages",
+				"Package Control: Discover Packages"
+			],
+			[
+				"color",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"css",
+				"Sort via CSScomb"
+			],
+			[
+				"preferences: ",
+				"Preferences: Settings - User"
+			],
+			[
+				"log com",
+				"Snippet: Toggle Log Commands"
+			],
+			[
+				"log comm",
+				"Snippet: Toggle Log Commands"
+			],
+			[
+				"toggle lo",
+				"Snippet: Toggle Log Commands"
+			],
+			[
+				"command",
+				"Snippet: Toggle Log Commands"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"syntax: xml",
+				"Set Syntax: XML"
+			],
+			[
+				"syntax: app",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"regex",
+				"Snippet: Regex: Match any character through End of File Ignoring line breaks (*2)"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"snippet: reset",
+				"Snippet: Snippet: CSS Reset Snippet (css_reset)"
+			],
+			[
+				"syntax: ba",
+				"Set Syntax: Batch File"
+			],
+			[
+				"ma",
+				"Set Syntax: Rd (R Documentation)"
+			],
+			[
+				"syntax: b",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syntax: ",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"set syntax: ba",
+				"Set Syntax: Batch File"
+			],
+			[
+				"syntax: mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"lipsum",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lipsu",
+				"Reg Replace: RegEx Input Sequencer"
+			],
+			[
+				"ipsum",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"escape",
+				"BracketHighlighter: Toggle String Bracket Escape Mode"
+			],
+			[
+				"snippet: if",
+				"Snippet: If"
+			],
+			[
+				"snippet: c",
+				"Snippet: Switch"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"repos",
+				"Package Control: Add Repository"
+			],
+			[
+				"Snippet: ",
+				"Snippet: other"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"scope",
+				"Toggle ScopeAlways"
+			],
+			[
+				"convert to ",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"prefere",
+				"Preferences: Settings - Default"
+			],
+			[
+				"preferen",
+				"Preferences: Settings - User"
+			],
+			[
+				"scopea",
+				"Package Control: Discover Packages"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"aspx",
+				"Snippet: ASPX Comment (server side) "
+			],
+			[
+				"Preferences: ",
+				"Preferences: Browse Packages"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"open fil",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"File",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"autocom",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"syntax c",
+				"Set Syntax: C#"
+			],
+			[
+				"mink",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"package con",
+				"Package Control: Grab CA Certs"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"",
+				"Bookmarks: Select Previous"
+			]
+		],
+		"width": 737.0
+	},
+	"console":
+	{
+		"height": 231.0,
+		"history":
+		[
+			"sublime.log_commands(False); #True/False",
+			"sublime.log_commands(True); #True/False",
+			"sublime.log_commands(False); #True/False",
+			"sublime.log_commands(True); #True/False",
+			"sublime.log_commands(False); #True/False",
+			"sublime.log_commands(True); #True/False",
+			"sublime.log_commands(False); #True/False",
+			"sublime.log_commands(True); #True/False",
+			"sublime.log_commands(False); #True/False",
+			"sublime.log_commands(True); #True/False",
+			"sublime.log_commands(False); #True/False",
+			"sublime.log_commands(True); #True/False",
+			"sublime.log_commands(False); # True/False",
+			"sublime.log_commands(False); # asdfa */",
+			"sublime.log_commands(False); //* asdfa */",
+			"sublime.log_commands(False); /* asdfa */",
+			"sublime.log_commands(False); // asdfa",
+			"sublime.log_commands(False)// asdfa",
+			"/* asdfa */",
+			"/* asdfa ",
+			"#asdf",
+			"//",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(Opp)",
+			"sublime.log_commands?",
+			"sublime.log_commands",
+			"sublime.log_commands(True).to_string()",
+			"sublime.log_commands().to_string()",
+			"\"sublime.log_commands()\"",
+			"\"sublime.log_commands\"",
+			"view.run_command(\"sublime.log_commands\")",
+			"view.run_command(\"sublime.log_commands()\")",
+			"log_commands(False)",
+			"log_commands",
+			"sublime.log_commands()",
+			"alert",
+			"if (sublime.log_commands() == True) : end",
+			"if (sublime.log_commands() == True) {}",
+			"if (sublime.log_commands() == True)",
+			"view.run_command('LogCommands')",
+			"if (sublime.log_commands() == True) { sublime.log_commands(False) }",
+			"if (sublime.log_commands() == True): sublime.log_commands(False)",
+			"if (sublime.log_commands(True)): sublime.log_commands(False);",
+			"if (sublime.log_commands(True)): sublime.log_commands(False)",
+			"if (sublime.log_commands(True)) { sublime.log_commands(False) }",
+			"sublime.log_commands(True|False)",
+			"sublime.log_commands(Switch)",
+			"sublime.log_commands(Toggle)",
+			"sublime.log_commands()",
+			"sublime.log_commands(Talse)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(false)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"window.run_command(sublime.log_commands(True))",
+			"window.run_command(sublime.log_commands(False))",
+			"view.run_command(sublime.log_commands(True))",
+			"view.run_command(sublime.log_commands(False))",
+			"view.run_command(sublime.log_commands(True))",
+			"view.run_command(sublime.log_commands(true))",
+			"view.run_command(log_commands(False))",
+			"view.run_command(\"log_commands()\")",
+			"view.run_command(\"log_commands(True)\")",
+			"sublime.log_commands(true)",
+			"sublime.log_commands()",
+			"clear",
+			"CSharpreter: Cleanup",
+			"window.run_command(sublime.log_commands(False))",
+			"window.run_command(sublime.log_commands(True))",
+			"window.run_command(\"sublime.log_commands(True)\")",
+			"window.run_command(\"sublime.log_commands(False)\")",
+			"window.run_command(sublime.log_commands(False))",
+			"window.run_command(\"log_commands(False)\")",
+			"run_command(\"log_commands(False)\")",
+			"view.run_command(\"log_commands(False)\")",
+			"view.run_command(log_commands(False))",
+			"view.runCommand('ToggleLogCommand')",
+			"view.run_command('ToggleLogCommand')",
+			"view.run_command('togglelog')",
+			"view.run_command('ToggleLog')",
+			"view.run_command('log')",
+			"view.run_command(log)",
+			"run_command('LogCommand')",
+			"view.run_command('LogCommand')",
+			"view.run_command('LogCommands')",
+			"view.run_command('LogCommandss')",
+			"view.run_command('LogCommands')",
+			"view.run_command('example')",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"SwitchLogCommands()",
+			"SwitchLogCommands();",
+			"python \"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Plugins/console-log-scope.py\"",
+			"python /Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Plugins/console-log-scope.py",
+			"\"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Plugins/console-log-scope.py\"",
+			"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Plugins/console-log-scope.py",
+			"sublime.log_commands(False)",
+			"sublime.active_window().run_command(\"show_panel\", {\"panel\": \"console\", \"toggle\": False})",
+			"sublime.log_commands(True)",
+			"print (view.syntax_name(view.sel()[0].b))",
+			"import sublime, sublime_plugin",
+			"sublime.set_clipboard(view.syntax_name(view.sel()[0].b))",
+			"print (view.syntax_name(view.sel()[0].b))",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Snippets/My-Sublime.sublime-project",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Snippets/_regex-find-all-extra-line-breaks.sublime-snippet",
+		"/Applications/MAMP/conf/apache/extra/httpd-vhosts.conf",
+		"/Volumes/wwwroot/cooper-tire/site/CMSTransformations/cms/menuitem/testattachments.ascx",
+		"/Volumes/wwwroot/cooper-tire/site/CMSCustomObjects/DocumentTypes/Form/CMS.MenuItem.ascx",
+		"/Users/bwagner/Desktop/_Cooper Updates/SNIPPETS/Video Snippets/coopertirecorporate-vimeo-embed-code.htm",
+		"/Users/bwagner/Desktop/coopertirecorporate-vimeo-embed-code.htm",
+		"/Users/bwagner/Projects/Bookmarks/useful-code-snippets/templates/html-web/sample-2/html-web/template-html-401-strict.html",
+		"/Users/bwagner/Projects/Bookmarks/useful-code-snippets/templates/html-web/sample-2/html-web/template-xhtml-1-strict.html",
+		"/private/etc/hosts",
+		"/Users/bwagner/Desktop/_Cooper Updates/Old Snippets/CooperMastercraft/videos-editable-region.html",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/bwagner/Desktop/_Cooper Updates/SNIPPETS/Video Snippets/coopertirecanada-vimeo-embed-code.htm",
+		"/Users/bwagner/Desktop/_Cooper Updates/SNIPPETS/Video Snippets/vimeo-video-embed-list.htm",
+		"/Users/bwagner/Desktop/_Cooper Updates/SNIPPETS/CooperMastercraft/vimeo-video-embed-list.htm",
+		"/Volumes/wwwroot/cooper-tire/site/App_Themes/CooperMastercraft/css/base.css",
+		"/Users/bwagner/Desktop/_Cooper Updates/SNIPPETS/Video Snippets/OLD-brightcove-corporate.txt",
+		"/Users/bwagner/Desktop/_Cooper Updates/SNIPPETS/Video Snippets/newfile.txt",
+		"/Users/bwagner/Desktop/_Cooper Updates/SNIPPETS/Video Snippets/coopertirecorporate-vimeo-embed-code.txt",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/CSS.sublime-settings",
+		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/CooperMastercraft/v2_CooperMastercraft_FontUpdate_30Jan2014-1/readme.txt",
+		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/CooperMastercraft/v2_CooperMastercraft_FontUpdate_30Jan2014-1/App_Themes/CooperMastercraft/css/base.css",
+		"/Volumes/Users/bwagner/Desktop/text-share.txt",
+		"/Volumes/wwwroot/cooper-tire/site/CMSTemplates/CooperMastercraft/CooperMastercraft.master",
+		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/CooperMastercraft/v2_CooperMastercraft_FontUpdate_30Jan2014/readme.txt",
+		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/CooperMastercraft/v2_CooperMastercraft_FontUpdate_22Jan2014/App_Themes/CooperMastercraft/css/base.css",
+		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/CooperMastercraft/v2_CooperMastercraft_FontUpdate_22Jan2014/readme.txt",
+		"/cooper-tire/site/App_Themes/CooperMastercraft/css/base.css",
+		"/Users/bwagner/Desktop/BTC RSS Widget/Widget.html",
+		"/Users/bwagner/Library/Caches/Cleanup At Startup/Transmit/6865F4D1-70CD-4574-888F-BE84C8D9D3C5/RSS.css",
+		"/Users/bwagner/Library/Caches/Cleanup At Startup/Transmit/6E170CD7-5548-453F-B84E-56D983638805/Widget.html",
+		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/CooperMastercraft/CooperMastercraft_FontUpdate_22Jan2014/App_Themes/CooperMastercraft/css/base.css",
+		"/Volumes/wwwroot/cooper-tire/site/web.config",
+		"/cooper-tire/site/App_Themes/CooperMastercraft/js",
+		"/cooper-tire/site/App_Themes/CooperTireMexico/css/base.css",
+		"/Users/bwagner/Library/Caches/Cleanup At Startup/Transmit/8589EE33-8295-4011-9C74-EC142DB9EAFC/Widget.html",
+		"/Users/bwagner/Library/Caches/Cleanup At Startup/Transmit/1C543D99-1F5A-4A8E-9444-CABB01AAE1F8/weather.js",
+		"/Users/bwagner/Remote/Dropbox/Development/Projects/useful-code-snippets/javascript/custom-functions.js",
+		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/Maintenance/NEW/CooperTire_VideoUpdates/2_VimeoEmbedUpdate_CooperTireCanada_29Jan2014/coopertirecanada-vimeo-embed-code.txt",
+		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/Maintenance/NEW/CooperTire_VideoUpdates/3_VimeoEmbedUpdate_CooperTireMexico_29Jan2014/coopertiremexico-vimeo-embed-code.txt",
+		"/Users/bwagner/Library/Caches/Cleanup At Startup/Transmit/C33BEBAB-AFB7-4264-B96C-01567C1C29E9/LockBackground.html",
+		"/Users/bwagner/Library/Caches/Cleanup At Startup/Transmit/5D1E4807-B019-4424-B81F-8632DE51ADAF/shake.js",
+		"/Users/bwagner/Library/Caches/Cleanup At Startup/Transmit/98800925-5B65-45FA-820C-1C7ADD758646/weather.js",
+		"/Users/bwagner/Downloads/Bob's Burgers Season 3/Bob's Burgers Season 3 720p.txt",
+		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/Maintenance/NEW/CooperTire_VideoUpdates/3_VimeoEmbedUpdate_CooperTireMexico_29Jan2014/readme.txt",
+		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/Maintenance/NEW/CooperTire_VideoUpdates/2_VimeoEmbedUpdate_CooperTireCanada_29Jan2014/readme.txt",
+		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/Maintenance/NEW/CooperTire_VideoUpdates/3_VimeoEmbedUpdate_CooperTireMexico_29Jan2014/coopertirecanada-vimeo-embed-code.txt",
+		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/Maintenance/NEW/CooperTire_VideoUpdates/CooperTireCanada_VideoEmbedUpdate_29Jan2014/readme.txt",
+		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/Maintenance/NEW/CooperTire_VideoUpdates/CooperTireCanada_VideoEmbedUpdate_29Jan2014/coopertirecanada-vimeo-embed-code.txt",
+		"/Users/bwagner/Desktop/Brightcove_cooperMexico_Old.html",
+		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/Maintenance/NEW/CooperTire_VideoUpdates/CooperTireRoadmaster_VimeoEmbedUpdate_29Jan2014/roadmaster-vimeo-embed-code.txt",
+		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/Maintenance/NEW/CooperTire_VideoUpdates/CooperTireCanada_VideoEmbedUpdate_29Jan2014/coopertirecanada-vimeo-embed-code.html",
+		"/Users/bwagner/Documents/roadmaster-vimeo-embed-code.html",
+		"/Volumes/wwwroot/cooper-tire/site/App_Themes/CooperRoadmaster/css/styles.css",
+		"/Volumes/wwwroot/cooper-tire/documentation/completed-tasks/Roadmaster Site/Roadmaster_MobileHomepageVideoFix_19Sept2013/ReadMe.txt",
+		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/Maintenance/NEW/CooperTire_VideoUpdates/CooperTireRoadmaster_VimeoEmbedUpdate_29Jan2014/readme.txt",
+		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/Maintenance/NEW/CooperTire_VideoUpdates/CooperTireRoadmaster_VimeoEmbedUpdate_29Jan2014/coopertirecanada-vimeo-embed-code.html",
+		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/Maintenance/NEW/CooperTire_VideoUpdates/CooperTireCanada_VideoEmbedUpdate_29Jan2014/OLD_BRIGHTCOVE_coopertirecanada-vimeo-embed-code.html",
+		"/Volumes/wwwroot/cooper-tire/documentation/completed-tasks/README Files/ReadMe_CooperRebatesCanadaWinter_25Sept2013.txt",
+		"/Volumes/wwwroot/cooper-tire/documentation/completed-tasks/Consumer Mobile Sites (CA, MX and old US)/MexicoMobileSite_Updates_27Sept2013/MexicoMobileSite_Updates_27Sept2013_ReadMe copy.txt",
+		"/Volumes/wwwroot/cooper-tire/documentation/completed-tasks/README Files/Mexico_ImageMap_Updates.txt",
+		"/Volumes/wwwroot/cooper-tire/documentation/completed-tasks/README Files/ReadMe_MastercraftRebates_Update_22Sept2013.txt",
+		"/Volumes/wwwroot/cooper-tire/documentation/completed-tasks/README Files/readme_08-23-2012.txt",
+		"/Volumes/wwwroot/cooper-tire/documentation/completed-tasks/README Files/sample-video-page.txt",
+		"/Volumes/wwwroot/cooper-tire/documentation/completed-tasks/README Files/sample-video-embed.txt",
+		"/Users/bwagner/Desktop/_COOPER_BIN/UPDATES/Maintenance/NEW/CooperTireCanada_FooterLinkFix_29Jan2014/readme.txt",
+		"/Volumes/Users/bwagner/Desktop/newfile.txt",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Themes/JavaScript.tmTheme",
+		"/Users/bwagner/Remote/Dropbox/Apps/Sublime Text 3/Packages/User/Monokai Bright (SL).tmTheme",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"/Volumes/wwwroot/cooper-tire/site/CMSSiteUtils/Import/Data 2/Objects/cms_licensekey.xml.export",
+		"/Users/bwagner/Desktop/Data 2/Objects/cms_licensekey.xml.export",
+		"/Users/bwagner/Desktop/Data/Objects/cms_licensekey.xml.export",
+		"/Volumes/wwwroot/cooper-tire/site/App_Themes/CooperTiresCanada/js/base.js",
+		"/Users/bwagner/Desktop/_COOPER_BIN/UPDATES/Maintenance/NEW/CooperTireCanada_FooterLinkFix_29Jan2014/App_Themes/CooperTiresCanada/js/base.js",
+		"/Users/bwagner/Desktop/Desktop Cleanup/_CooperTiresConsumer_FullSite_ExportForNavigator_07Oct2013/Data/Objects/cms_licensekey.xml.export",
+		"/Users/bwagner/User Customization/Applications/Google/Chrome/Extensions/Previous Tab/background.js",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Index/001209.sst",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Cache/Color Scheme - Default/Monokai.tmTheme.cache",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Installed Packages/Monokai Extended.sublime-package",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Cache/Monokai Extended/Monokai Extended Bright.tmTheme.cache",
+		"/Users/bwagner/Desktop/Desktop Cleanup/CooperTireConsumer2013_SiteRefresh_InitialSiteExport_29Oct2013/ReadMe.txt",
+		"/Volumes/wwwroot/cooper-tire/site/web.config.2",
+		"/Volumes/wwwroot/cooper-tire/site/web.config.bak",
+		"/Users/bwagner/Desktop/Fahlgren-Timesheet.txt",
+		"/Users/bwagner/Remote/Dropbox/Development/Projects/useful-code-snippets/javascript/my-jquery-functions.js",
+		"/Applications/Citrix Receiver.app/Contents/Helpers/Citrix Access Gateway copy",
+		"/Volumes/Col02/Clients - COL/Fahlgren Mortine - ALL/Fahlgren Administration - FATIME/Digital Admin/Development/HTML/2011-03-02/html-email/index.html",
+		"/Users/bwagner/Desktop/parking-ticket-letter-23january2013.txt",
+		"/Users/bwagner/Remote/Dropbox/0EE68E69.asc",
+		"/Users/bwagner/Remote/Dropbox/Icon",
+		"/Users/bwagner/Remote/Dropbox/do-transmit-db-backup.txt",
+		"/Library/Preferences/com.box.sync.plist",
+		"/Applications/Box Sync.app/Contents/Resources/FinderPlugin.bundle/Contents/Info.plist",
+		"/Users/bwagner/Remote/Google Drive/Backup & Recovery/System Files/Mac OS/plist/Library/Preferences/com.box.sync.plist",
+		"/Users/bwagner/.Trash/com.box.sync/Cache.db",
+		"/Applications/Box Sync.app/Contents/Info.plist",
+		"/Users/bwagner/.bash_functions",
+		"/Users/bwagner/.bashrc",
+		"/Users/bwagner/.bash_aliases",
+		"/Applications/Box Sync.app/Contents/PkgInfo",
+		"/Users/bwagner/Desktop/javascript/my-jquery-functions.js",
+		"/Users/bwagner/Projects/personal/App/iOS/Cydia/CCLoader/README.md",
+		"/Users/bwagner/Desktop/_COOPER_BIN/UPDATES/CooperMastercraft/CooperMastercraft_FontUpdate_22Jan2014/readme.txt",
+		"/Volumes/wwwroot/cooper-tire/documentation/readme-template.txt",
+		"/Users/bwagner/Desktop/_COOPER_BIN/UPDATES/Maintenance/DELIVERED/Mastercraft_FooterUpdate_19Jan2014/readme.txt",
+		"/Users/bwagner/Desktop/_COOPER_BIN/UPDATES/CooperMastercraft/CooperMastercraft_FontUpdate_22Jan2014/App_Themes/CooperMastercraft/css/base.css",
+		"/Users/bwagner/Desktop/_COOPER_BIN/UPDATES/CooperMastercraft/CooperMastercraft_FontUpdate_22Jan2014/App_Themes/CooperMastercraft/js/base.js",
+		"/Users/bwagner/Desktop/_COOPER_BIN/UPDATES/CooperMastercraft/CooperMastercraft_FontUpdate_22Jan2014/CMSTemplates/CooperMastercraft/CooperMastercraft.master",
+		"/Volumes/Users/bwagner/Projects/Sites/cooper-tire/site/CMSTemplates/CooperTireConsumer2013/masterpages/site.master",
+		"/Volumes/Users/bwagner/Projects/Sites/cooper-tire/site/App_Themes/CooperMastercraft/js/base.js",
+		"/Volumes/Users/bwagner/Projects/Sites/cooper-tire/site/App_Themes/CooperMastercraft/css/base.css",
+		"/Volumes/Users/bwagner/Projects/Sites/cooper-tire/site/CMSTemplates/CooperMastercraft/CooperMastercraft.master",
+		"/Volumes/Users/bwagner/Projects/Sites/cooper-tire/site/App_Themes/CooperTireConsumer2013/assets/css/base.css",
+		"/Users/bwagner/Downloads/mastercraft-22012014/demo.htm",
+		"/Users/bwagner/Projects/personal/inspector-stylesheets/pt-com.css",
+		"/Users/bwagner/Downloads/mastercraft-22012014/demo.css",
+		"/Users/bwagner/Remote/Google Drive/Icon",
+		"/Users/bwagner/Remote/Google Drive/.DS_Store",
+		"/Users/bwagner/Remote/Dropbox/.DS_Store",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/C#.sublime-settings",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Snippets/toggle-log-commands.sublime-snippet",
+		"/Users/bwagner/Library/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/untitled",
+		"/Users/bwagner/Library/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Snippets/toggle-log-commands.sublime-snippet",
+		"/Users/bwagner/Projects/school-choice-ohio/website/web-root/connectors/config.core.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"<open files>",
+			"",
+			"<open folders>,/Volumes/Users/bwagner/Projects/Sites/cooper-tire/site/App_Themes/CooperTireConsumer2013,/Volumes/Users/bwagner/Projects/Sites/cooper-tire/site/CMSTemplates/CooperTireConsumer2013",
+			"<open folders>,/Volumes/Users/bwagner/Projects/Sites/cooper-tire/site/App_Themes/CooperTireConsumer2013,/Volumes/Users/bwagner/Projects/Sites/cooper-tire/site/CMSTemplates/CooperTireConsumer2013,/Volumes/Users/bwagner/Projects/Sites/cooper-tire/site/CMSWebParts/CooperTire/CooperTireConsumer2013",
+			"",
+			"bwagner",
+			"/Users/bwagner/projects/fahlgren/fahlgrenmortine/web-root/public/assets/js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n\\",
+			"\n		",
+			"\\C(.*)([\\s]*?)?\\n[\\n\\s]",
+			"(.*)([\\s]*?)?\\n?[\\n\\s]",
+			"(.*)([\\s]*?)?\\n[\\n\\s]",
+			"([\\s]*?)?\\n[\\n\\s]",
+			"([\\s\\S]*?)?\\n[\\n\\s]",
+			"[.]([\\s\\S]*?)?\\n[\\n\\s]",
+			"[.]?([\\s\\S]*?)?\\n[\\n\\s]",
+			"[ ]?([\\s\\S]*?)?\\n",
+			"[\\S]?([\\s\\S]*?)?\\n",
+			"[\\s]?([\\s\\S]*?)?\\n",
+			"[.]?([\\s\\S]*?)?\\n",
+			"<",
+			"index",
+			"><",
+			"coopertire",
+			"h3",
+			"font-size",
+			"myriad ",
+			"helvetica",
+			"Arial, Helvetica",
+			"Helvetica, Arial",
+			"&amp;title=0",
+			"&amp;",
+			"auto_indent",
+			"bracket",
+			"indent",
+			" }",
+			" ",
+			" {",
+			"{",
+			"<iframe src",
+			"500",
+			"/div class=\"video-wrap\"",
+			"iframe",
+			"vid",
+			"video",
+			"videos",
+			"<br/>",
+			"h2",
+			"<h3>Good Morning America Teams with Cooper Tire</h3>",
+			"h3",
+			"strong",
+			"tag",
+			"478",
+			"850",
+			"<iframe id=\"player-(.*?)\"([\\s\\S]*?)</iframe>",
+			"<a href=\"//vimeo.com/(.*?)\"([\\s\\S]*?)</a>([\\s\\S]*?)</div>",
+			"<div class=\"clip s400\">",
+			" 400",
+			"font-weight: ?[0-9]",
+			"font-weight:bold",
+			"text-sha",
+			"Primary",
+			"nav",
+			"0.05em 0.02em .005em",
+			"text-shadow",
+			"drop-shadow",
+			"Trade Gothic W02 Cn 18",
+			"poza",
+			"city",
+			"object",
+			"adjustdo",
+			"adjustdomain",
+			"adjust",
+			"1E3",
+			"window",
+			"focus",
+			"if",
+			"window",
+			"9",
+			"19",
+			"20",
+			"10",
+			"20",
+			"timer",
+			"= 2",
+			"= 3",
+			"3",
+			"timer",
+			"3",
+			"ADJUSTDOM",
+			"font",
+			"embed",
+			"<system.webServer>\n          <httpProtocol>\n          <customHeaders>\n              <add name=\"Access-Control-Allow-Origin\" value=\"*\" />\n              <add name=\"Access-Control-Allow-Methods\" value=\"GET,PUT,POST,DELETE,OPTIONS\" />\n              <add name=\"Access-Control-Allow-Headers\" value=\"Content-Type\" />\n          </customHeaders>\n      </httpProtocol>\n  </system.webServer>",
+			"Access-Control-Allow-Origin",
+			"add name=\"Access-Control-Allow-Origin",
+			"add name=\"Access-Control-Allow-Origin\" value=\"*\"",
+			"dev.mastercraf",
+			"sync",
+			"Users",
+			"location",
+			"Box Sy",
+			"~/",
+			"load",
+			"head",
+			"cooper",
+			"elementsby",
+			"elements",
+			"classna",
+			"<p>###(.*?)</p>",
+			"cufon",
+			"shadow:.?0.05em ",
+			".5em",
+			"cufon",
+			"loadConten",
+			"initC",
+			"initc",
+			"init",
+			"initCu",
+			"\\n\\n\\n",
+			"initcuf",
+			"cufon",
+			"script",
+			"cufon",
+			"content-box",
+			"box-sizing:border-box;",
+			"max-width:",
+			"-100",
+			"padding-left",
+			"left:",
+			"left",
+			"29%",
+			"3%",
+			"34%",
+			"33%",
+			"32%"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n<",
+			">\\n<",
+			"Arial, Helvetica",
+			"strong",
+			"281",
+			"500",
+			"<iframe src=\"//player.vimeo.com/video/\\1\" width=\"850\" height=\"478\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+			"<iframe id=\"player-\\1\" src=\"//player.vimeo.com/video/\\1\" width=\"540\" height=\"304\" frameborder=\"0\" webkitallowfullscreen=\"\" allowfullscreen=\"\"></iframe>",
+			"<iframe id=\"player-\\1\" src=\"//player.vimeo.com/video/\\1?api=1&amp;player_id=player\" width=\"540\" height=\"304\" frameborder=\"0\" webkitallowfullscreen=\"\" allowfullscreen=\"\"></iframe>",
+			"",
+			"none",
+			"Trade Gothic W02",
+			"<h2>\\1</h2>",
+			"shadow:0.06em ",
+			"\\n\\n",
+			"border-box",
+			"-webkit-box-sizing: content-box; -ms-box-sizing: content-box; -moz-box-sizing: content-box; -o-box-sizing: content-box; box-sizing: content-box;",
+			"Helvetica, Arial",
+			"font-weight:normal;text-shadow:0.05em 0 0; font-variant: normal; -webkit-font-smoothing: antialiased; -moz-font-smoothing: none; font-smoothing: antialiased;",
+			"",
+			"Trade Gothic W02 Cn 18",
+			"../fonts/fonts-dot-com/",
+			"    \"color_scheme\": \"Packages/Color Scheme - Default/Monokai.tmTheme\",\n",
+			"\\1d",
+			"refrigerants",
+			"ahri-low-gwp-arep-conference/ahri-low-gwp-arep-conference",
+			"sensi-thermostat/sensi-thermostat",
+			"press-release\"><a href=\"downloads/connectivity/- - -/- - -.docx",
+			"connectivity",
+			"copeland-scroll-zpk6-compressor",
+			"r-410-a-copeland-scroll-compressor-tandems/r-410-a-copeland-scroll-compressor-tandems",
+			"commercial-copeland-scroll-variable-speed-compressor/commercial-copeland-scroll-variable-speed-compressor",
+			">\\1<\\2/\\1/\\1",
+			"/\\1{l}",
+			"\"downloads/efficiency/- - -/- - -.xxx\"",
+			"downloads/efficiency/- - -/- - -.xxx",
+			"<li class=\"\\4\"\\5downloads/\\4/\\2.pdf",
+			"www.emersonclimate.com",
+			"</span>",
+			"",
+			"<h4>",
+			"<div class=\"entry\">",
+			"<h2\\1h2",
+			"<h2 class=\"\\1panel header",
+			"class=\\1content article",
+			"\\n  ",
+			"{ ",
+			" }",
+			"}",
+			"{",
+			"; ",
+			";",
+			":",
+			"",
+			"</li>",
+			"<li\\1><a href=\"#\" target=\"_blank\">\\2</a></li>",
+			"\\n\\n/*\\1*/\\n",
+			"img",
+			".",
+			"#",
+			"chinesemusicschool",
+			"images/ico/",
+			"<?php bloginfo('stylesheet_directory'); ?>/ico/social",
+			"",
+			"Indy Lights",
+			"IndyLights",
+			"</div><br/>\\n\\n",
+			"src=\"",
+			"<div><img src=\"\\1\" alt=\"\"><div> <br/>",
+			"strImgFileName",
+			"using System;\nusing System.Data;\nusing System.Configuration;\nusing System.Collections;\nusing System.Web;\nusing System.Web.Security;\nusing System.Web.UI;\nusing System.Web.UI.WebControls;\nusing System.Web.UI.WebControls.WebParts;\nusing System.Web.UI.HtmlControls;\nusing CMS.CMSHelper;\nusing CMS.GlobalHelper;\nusing CMS.SiteProvider;\nusing CMS.TreeEngine;\nusing CMS.WorkflowEngine;\n\npublic partial class CMSWebParts_CooperTire_Consumer_TireComparisonHeader : System.Web.UI.UserControl\n{\n    public int TireId\n    {\n        get { return tireId; }\n        set { tireId = value; }\n    }\n\n    public string UTQG\n    {\n        get { return utqg; }\n        set { utqg = value; }\n    }\n\n    public string Sidewall\n    {\n        get { return sidewall; }\n        set { sidewall = value; }\n    }\n\n    private int tireId = 0;\n    private string utqg;\n    private string sidewall;\n    protected SiteInfo currentSite = null;\n    protected string url = \"\";\n    protected void Page_Load(object sender, EventArgs e)\n    {\n        \n    }\n\n    public void Load()\n    {\n        CMS.TreeEngine.TreeNode treeNode = null;\n        currentSite = CMSContext.CurrentSite;\n\n        string where = null;\n        if (tireId > 0)\n        {\n            where = \"TireInternalId = \" + tireId;\n        }\n        else\n        {\n            Visible = false;\n            return;\n        }\n\n      if ( (where != null) && (currentSite != null) )\n      {\n            DataSet ds = null;\n            TreeProvider tree = new TreeProvider(CMSContext.CurrentUser);\n            String category = QueryHelper.GetString(\"category\",String.Empty);\n            if(category != String.Empty)\n            {\n                ds = tree.SelectNodes(currentSite.SiteName,  HttpUtility.UrlDecode(category) + \"/%\", TreeProvider.ALL_CULTURES, true, \"CooperTire.NavigatorTire\", where);\n            }\n            else\n            {\n\n                ds = tree.SelectNodes(currentSite.SiteName, \"/Tires/%\", TreeProvider.ALL_CULTURES, true, \"CooperTire.NavigatorTire\", where);   \n            }\n            \n            if (!DataHelper.DataSourceIsEmpty(ds))\n            {\n\n                uc_lblTireName.Text = ds.Tables[0].Rows[0][\"TireName\"].ToString();\n                string strImage = ds.Tables[0].Rows[0][\"TireImage01\"].ToString();\n                string _imgFileName = HTMLHelper.StripTags(ds.Tables[0].Rows[0][\"DocumentName\"].ToString().ToLower()).Replace(\"(\", \"\").Replace(\")\", \"\").Replace(\"-\", \"\").Replace(\" \", \"\").Replace(\"/\", \"\").Replace(\"+\", \"\").Replace(\"_\", \"\");\n                string strImgPrePath = \"/App_Themes/CooperTireConsumer2013/assets/img/pic/tires/\";\n                uc_img01.ImageUrl = strImgPrePath + \"full/large/\" + _imgFileName + \".png\";\n                uc_img01.AlternateText = ds.Tables[0].Rows[0][\"NodeName\"].ToString();\n                uc_imageLink.Attributes.Add(\"href\", ds.Tables[0].Rows[0][\"NodeAliasPath\"].ToString() + \".aspx\");\n            }\n        }   \n    }\n}",
+			"strImgPrePath",
+			"strImage",
+			"id",
+			"testimonialsRepeater",
+			"dsTestimonials",
+			"Cooper.TireNavigator.VehicleClickedInit",
+			"objLiClicked",
+			"  // ",
+			"BulletedListItem",
+			"ul_vehicles",
+			"btn_vehicle",
+			"'",
+			"strWarrantyInfo",
+			"'",
+			"strCategoryText",
+			"strImgFileName",
+			"strSrc",
+			"strImgPrePath",
+			"strTireName",
+			"strSrc",
+			"strCategoryText",
+			"strImgPath",
+			"strImgFileName",
+			"()",
+			"( ",
+			"(",
+			"; \\n",
+			"}\\n",
+			"} \\n",
+			"}",
+			"id=",
+			" strTireName",
+			"strTireName",
+			"TireFeatureHeader",
+			"<asp:Literal id=\"uc_\\2\" runat=\"server\"",
+			"<asp:Literal id=\"uc_\\1\" runat=\"server\"",
+			"asp:Literal",
+			"CooperTire.NavigatorTire",
+			"welcome_gallery_repeater",
+			"'",
+			"\"",
+			"\\1;\\1",
+			"Select a type for this item: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+			"Select a type for this item",
+			"<br/>",
+			"<%@ Control Language=\"C#\" AutoEventWireup=\"true\" CodeFile=\"Testimonials.ascx.cs\" Inherits=\"CMSWebParts_CooperTire_CooperTireConsumer2013_CooperTestimonials\" %>\n\n<cms:CMSRepeater ID=\"uc_testimonials_repeater\" runat=\"server\" ClassNames=\"CooperTire.GenericItem\" TransformationName=\"CooperTire.GenericItem.Testimonial\" OrderBy=\"NodeLevel, NodeOrder, NodeName\" Visible=\"true\" Path=\"/Testimonials/%\"> </cms:CMSRepeater>\n\n\n\n<script type=\"text/javascript\">\n// Kentico Custom Helpers\nvar KenticoCustom = KenticoCustom || {};\n\nKenticoCustom.AccessParentFrames = function() {\n    var parentFrame = window.parent.document.getElementById('pageview').outerHTML;\n\n    if (parentFrame.indexOf('nodeid=1208') > -1) {\n        var objCustomStyle = document.createElement('style');\n        objCustomStyle.innerHTML = 'tr.homepage {display:table-row!important;} .default {display:none!important;} span.homepage{display:nine!important;}';\n        document.body.appendChild(objCustomStyle);\n\n    }\n}\n\nwindow.onload = function() {\n    var AccessParentFrames = new KenticoCustom.AccessParentFrames();\n}\n</script>\n\n<table id=\"default\" class=\"global-type\">\n    <tbody>\n        <tr id=\"global-id\" class=\"global\">\n            <td>$$label:GenericCustomID$$</td>\n            <td>$$input:GenericCustomID$$<br />\n            $$validation:GenericCustomID$$</td>\n        </tr>\n        <tr id=\"global-type\" class=\"global type\">\n            <td>$$label:GenericCustomType$$</td>\n            <td>$$input:GenericCustomType$$<br />\n            $$validation:GenericCustomType$$</td>\n        </tr>\n        <tr id=\"global-title\" class=\"global title\">\n            <td>$$label:GenericCustomTitle$$</td>\n            <td>$$input:GenericCustomTitle$$<br />\n            $$validation:GenericCustomTitle$$</td>\n        </tr>\n    </tbody>\n</table>\n\n\n\n<table id=\"testimonials\" class=\"type\">\n    <tbody>\n        <tr id=\"testimonial-content\" class=\"testimonial content\">\n            <td>$$label:GenericCustomLongText$$</td>\n            <td>$$input:GenericCustomLongText$$<br />\n            $$validation:GenericCustomLongText$$</td>\n        </tr>\n        <tr id=\"testimonial-author\" class=\"testimonial author\">\n            <td>$$label:TestimonialAuthor$$</td>\n            <td>$$input:TestimonialAuthor$$<br />\n            $$validation:TestimonialAuthor$$</td>\n        </tr>\n\n    </tbody>\n</table>\n\n\n    \n\n\n<table id=\"link-url\" class=\"type\">\n    <tbody>\n     <tr>\n            <td>$$label:GenericCustomURL$$</td>\n            <td>$$input:GenericCustomURL$$<br />\n            $$validation:GenericCustomURL$$</td>\n        </tr>\n</tbody>\n</table>",
+			"ADD VEHICLE",
+			"'",
+			"Cooper.TireNavigator.FocusInputText();",
+			"strCurrentCar",
+			"objCurrentCar",
+			"objCarNameInput",
+			"objSavedCars",
+			"strCarName",
+			"objCarName",
+			"objSavedCars",
+			"#saved-vehicles"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 321.0
+	},
+	"output.find_results":
+	{
+		"height": 789.0
+	},
+	"output.reg_replace_results":
+	{
+		"height": 101.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "My-Sublime.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"defau",
+				"CMSTemplates (Cooper Tire Consumer 2013)/default.aspx"
+			],
+			[
+				"overview",
+				"Transformations/coopertire/navigatortire/overview.ascx"
+			],
+			[
+				"defa",
+				"Templates (Cooper Tire Consumer 2013)/default.aspx"
+			],
+			[
+				"tire_d",
+				"Templates (Cooper Tire Consumer 2013)/tire_details.aspx"
+			],
+			[
+				"mobile.js",
+				"Documentation/new-tasks/MexicoMobileSite_Updates_27Sept2013/App_Themes/CooperTireMexico/js/mobile.js"
+			],
+			[
+				"cp_",
+				"Documentation/Kentico5-5RC_SiteExportOptions_HowTo.txt"
+			],
+			[
+				"mas",
+				"Templates (Cooper Tire Consumer 2013)/masterpages/site.master"
+			],
+			[
+				"findaretai",
+				"CMSWebParts/CooperTire/CooperTireConsumer2013/FindARetailerWidget.ascx"
+			],
+			[
+				"/v",
+				"/Volumes/fahlgren/Users/bwagner/Projects/Sites/cooper-tire/site/CMSTemplates/CooperTireConsumer2013/default.aspx"
+			],
+			[
+				"toolb",
+				"/Volumes/wwwroot/cooper-tire/templates/inc/toolbar.asp"
+			],
+			[
+				"someofour",
+				"vendor/symfony/translation/Symfony/Component/Translation/Exception/NotFoundResourceException.php"
+			],
+			[
+				"refres",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 499.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 355.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

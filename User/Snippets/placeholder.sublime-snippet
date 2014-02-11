@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+<!-- BEGIN PLACEHOLDER --> $1 <!-- END PLACEHOLDER -->
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>/FPO</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html.basic, comment.block.html, punctuation.definition.comment.html</scope>
+  <description>FPO - Placeholder defined by opening/closing HTML comment areas</description>
+</snippet>

@@ -5,6 +5,13 @@
       "replacements": ["remove_empty_lines"] 
     },
     "command": "reg_replace"
+  },
+    {
+    "args": 
+    {
+      "replacements": ["remove_empty_lines_2"] 
+    },
+    "command": "reg_replace"
   }
   
 ]

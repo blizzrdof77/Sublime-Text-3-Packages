@@ -38,6 +38,7 @@
 //     multi_pass_regex:Boolean setting to define whether there will be multiple sweeps on the scope region
 //                      region to find and replace all instances of the regex, when regex cannot be formatted
 //                      to find all instances in a greedy fashion.  Default is false.
+
 {
     "replacements": {
 
@@ -97,6 +98,12 @@
             "case": false
         },
         "remove_empty_lines": {
+            "find": "\n([\\s\t]*[\\s\t])+([\\s\t]*[\\s\t])?\n",
+            "replace": "\n",
+            "greedy": true,
+            "case": false
+        },
+        "remove_empty_lines_2": {
             "find": "\n\n",
             "replace": "\n",
             "greedy": true,
@@ -255,6 +262,12 @@
         "forward_to_backslash": {
             "find": "[\\\\]",
             "replace": "/",
+            "greedy": true,
+            "case": false
+        },
+        "fahlgren_server_windirswap": {
+            "find": "[OS]:",
+            "replace": "/Users/bwagner/Bookmarks",
             "greedy": true,
             "case": false
         },

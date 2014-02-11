@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[sublime.log_commands($1)]]></content>
+	<content><![CDATA[sublime.log_commands($1); #True/False - Paste this into the console]]></content>
   <tabTrigger>toggle_log_commands</tabTrigger>
   <!-- Optional: Description to show in the menu -->
   <description>Toggle Log Commands</description>

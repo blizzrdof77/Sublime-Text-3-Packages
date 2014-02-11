@@ -10,6 +10,7 @@
 		"tmPreferences",
 		"stTheme",
 		"tmTheme",
-		"export"
+		"export",
+		"plist"
 	]
 }

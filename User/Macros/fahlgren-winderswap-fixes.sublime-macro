@@ -1,0 +1,10 @@
+[
+  {
+    "args": 
+    {
+      "replacements": ["fahlgren_server_windirswap", "forward_to_backslash"] 
+    },
+    "command": "reg_replace"
+  }
+  
+]

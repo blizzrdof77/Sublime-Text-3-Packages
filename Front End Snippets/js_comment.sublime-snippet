@@ -1,11 +1,11 @@
 <snippet>
 	<content><![CDATA[
-\$('${1:selector}'').on('${2:event}', function(e){
-  ${3:/* code ... */}
-});
+/*
+* ${1:message}
+*/
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>_$on</tabTrigger>
+	<tabTrigger>_*</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger 
 	<scope>source.html</scope>
     -->
