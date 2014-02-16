@@ -24,6 +24,7 @@
 		"PersistentRegexHighlight",
 		"PHP Modern",
 		"Phpcs",
+		"Plist Binary",
 		"RegReplace",
 		"SassBeautify",
 		"ScopeAlways",
