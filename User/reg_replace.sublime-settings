@@ -276,7 +276,14 @@
             "replace": "'",
             "greedy": true,
             "case": false
+        },
+        "cooper_update_package_commands": {
+            "find": "(.*?)\\/(.*?)\\/(.*?)?(\\/)?(.*)",
+            "replace": "cp \\1/\\2/\\3 /Users/bwagner/Desktop/_CooperUpdates/UPDATES/CoopoerCorporate/Update/\\1/\\2/\\3",
+            "greedy": true,
+            "case": true
         }
+        
     },
 
     // If on_save is true, RegReplace will search through the file patterns listed below right before a file is saved,

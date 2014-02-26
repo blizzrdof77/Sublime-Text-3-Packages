@@ -1,0 +1,10 @@
+[
+
+  {
+    "args": 
+    {
+      "replacements": ["cooper_update_package_commands"] 
+    },
+    "command": "reg_replace"
+  }
+]

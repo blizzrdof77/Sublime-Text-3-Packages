@@ -1,4 +1,9 @@
 {
+	"channels":
+	[
+		"https://sublime.wbond.net/channel.json",
+		"https://sublime.wbond.net/channel.json"
+	],
 	"installed_packages":
 	[
 		"Alignment",
@@ -18,6 +23,7 @@
 		"Less Tabs",
 		"MacTerminal",
 		"Merge Variables",
+		"Missing Palette Commands",
 		"MODx Revolution Snippets",
 		"Monokai Extended",
 		"Open-Include",
@@ -25,10 +31,14 @@
 		"PHP Modern",
 		"Phpcs",
 		"Plist Binary",
+		"Preset Command",
+		"Quick File Open",
 		"RegReplace",
+		"Repeat Macro",
 		"SassBeautify",
 		"ScopeAlways",
 		"SCSS",
+		"Search Stack Overflow",
 		"Select By Regex",
 		"Select Quoted",
 		"SideBarEnhancements",
@@ -36,6 +46,7 @@
 		"Status Bar Extension",
 		"StringEncode",
 		"SublimeCodeIntel",
+		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-php",
 		"Syntax Highlighting for Sass",
 		"Syntax Manager",
@@ -47,6 +58,8 @@
 	[
 		"https://github.com/timdouglas/sublime-less2css",
 		"https://github.com/SublimeLinter/SublimeLinter.git",
-		"https://github.com/ajryan/CSharpreter"
+		"https://github.com/ajryan/CSharpreter",
+		"https://github.com/facelessuser/RegReplace.git",
+		"https://github.com/facelessuser/RegReplace"
 	]
 }

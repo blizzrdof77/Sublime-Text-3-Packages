@@ -68,25 +68,23 @@
     }
   },
 
-
-  /* Remove Empty Lines */
-  {
-    "keys": ["super+k", "super+l"],
-    "command": "run_macro_file",
-    "args": {
-      "file": "Packages/User/Macros/remove-empty-lines.sublime-macro"
-    }
-  },
-
-
-  /* Split Lines */
-  {
-    "keys": ["super+k", "super+enter"],
-    "command": "run_macro_file",
-    "args": {
-      "file": "Packages/User/Macros/split-lines.sublime-macro"
-    }
-  },
+  /* LINE OPERATIONS */
+    
+      /* Remove Empty Lines */
+      {
+        "keys": ["super+k", "super+l"],
+        "command": "run_macro_file",
+        "args": { "file": "Packages/User/Macros/remove-empty-lines.sublime-macro" }
+      },
+      /* Split Lines */
+      {
+        "keys": ["super+k", "super+enter"],
+        "command": "run_macro_file",
+        "args": { "file": "Packages/User/Macros/split-lines.sublime-macro" }
+      },
+      /* Swap Line Up/Down */
+      { "keys": ["super+k", "super+k", "super+up"], "command": "swap_line_up" },
+      { "keys": ["super+k", "super+k", "super+down"], "command": "swap_line_down" },
 
 
   /* Remove Tbody Tags */
@@ -126,7 +124,7 @@
   },
   
 
-
+  
   /* Insert Html Break Tag */
   {
     "keys": ["alt+b"],
