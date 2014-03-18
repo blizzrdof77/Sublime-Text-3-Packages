@@ -1,0 +1,9 @@
+[
+{
+"keys": ["ctrl+shift+5"],
+"caption": "Reg Replace: Remove Trailing Spaces",
+"command": "reg_replace",
+"args": {"replacements": ["cooper_update_package_commands"]}
+}
+
+]

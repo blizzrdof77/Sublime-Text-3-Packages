@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"s",
+				"super+k"
+			],
+			[
+				"folder",
+				"folders"
+			],
+			[
+				"col",
+				"collapse_braces"
+			],
+			[
 				"Attach",
 				"AttachmentLightboxGallery"
 			],
@@ -26,10 +38,6 @@
 			[
 				"Tech",
 				"Technologies"
-			],
-			[
-				"s",
-				"section"
 			],
 			[
 				"chinese",
@@ -506,14 +514,6 @@
 			[
 				"Do",
 				"CurrentDocument"
-			],
-			[
-				"CMS",
-				"CMSContext"
-			],
-			[
-				"Master",
-				"MasterPageFile"
 			]
 		]
 	},
@@ -523,24 +523,256 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 188.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
+				"remove tag",
+				"Tag: Remove Picked Tags in Document"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"setsy bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"manage ma",
+				"Preferences: Manage Main Sublime Menu * "
+			],
+			[
+				"User",
+				"Preferences: Manage Custom Commands - User "
+			],
+			[
+				"macro",
+				"Create New Macro"
+			],
+			[
+				"set syntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"show",
+				"Show Macros - User "
+			],
+			[
+				"sidebar",
+				"Reveal Current File in Side Bar"
+			],
+			[
+				"input",
+				"Reg Replace: RegEx Input Sequencer"
+			],
+			[
+				"theme",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"show m",
+				"Show Macros - User "
+			],
+			[
+				"Macro",
+				"Show Macros - User "
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"Commands",
+				"Preferences: Reg Replace Commands – Default"
+			],
+			[
+				"keyboard",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"sho",
+				"Show Macros - User "
+			],
+			[
+				"Show ",
+				"Show Macros - User "
+			],
+			[
+				"manage cu",
+				"Preferences: Manage Custom Commands - User "
+			],
+			[
+				"Preference",
+				"Preferences: Manage Custom Commands - User "
+			],
+			[
+				"reg replace sett",
+				"Preferences: Reg Replace Settings – User"
+			],
+			[
+				"manage",
+				"Preset Command: Manage Presets"
+			],
+			[
+				"presets",
+				"Preset Command: Manage Presets"
+			],
+			[
+				"commands",
+				"Preset Command: Manage Presets"
+			],
+			[
+				"regrepla",
+				"Preferences: Reg Replace Commands – User"
+			],
+			[
+				"regreplace",
+				"Preferences: Reg Replace Commands – User"
+			],
+			[
+				"keybindi",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"keybi",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"regreplac",
+				"Preferences: Reg Replace Settings – User"
+			],
+			[
+				"match",
+				"Snippet: Regex: Match any character through End of File Ignoring line breaks (*2)"
+			],
+			[
+				"stack",
+				"Stackoverflow: Search Selection"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"java",
+				"Format: Javascript"
+			],
+			[
+				"format ",
+				"Format: Javascript"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"setsyntax: js",
+				"Set Syntax: JSON"
+			],
+			[
+				"htmlpr",
+				"HTMLPrettify"
+			],
+			[
+				"html p",
+				"HTMLPrettify"
+			],
+			[
+				"htmlp",
+				"HTMLPrettify"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"alignmen",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"prettify",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"syntax: json",
+				"Set Syntax: JSON"
+			],
+			[
+				"snippet: sub",
+				"Snippet: jq_submit"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings - User"
+			],
+			[
 				"regrepl",
-				"Snippet: REGEX: Match tag w/ preceeding/proceeding linebreaks"
+				"Preferences: Reg Replace Settings – User"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packages",
+				"Package Control: Grab CA Certs"
+			],
+			[
+				"keybind",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"regre",
+				"PersistentRegexHighlight: Unhighlight Current File"
+			],
+			[
+				"regex",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"toggle",
+				"Toggle ScopeAlways"
+			],
+			[
+				"packagec",
+				"Package Control: Enable Package"
 			],
 			[
 				"install",
 				"Package Control: Install Package"
 			],
 			[
-				"math any",
-				"Snippet: Regex: Match any character through End of File Ignoring line breaks (*2)"
+				"add repo",
+				"Package Control: Add Repository"
 			],
 			[
-				"toggle",
-				"Toggle ScopeAlways"
+				"removepa",
+				"Package Control: Remove Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"regrep",
+				"Preferences: Reg Replace Settings – User"
+			],
+			[
+				"math any",
+				"Snippet: Regex: Match any character through End of File Ignoring line breaks (*2)"
 			],
 			[
 				"syntax: ASP",
@@ -565,10 +797,6 @@
 			[
 				"auto-",
 				"Tag: Auto-Format Tags on Selection"
-			],
-			[
-				"keybin",
-				"Preferences: Key Bindings - User"
 			],
 			[
 				"auto ",
@@ -619,10 +847,6 @@
 				"Preferences: Settings - Default"
 			],
 			[
-				"settings",
-				"Preferences: Settings - User"
-			],
-			[
 				"word wr",
 				"Word Wrap: Toggle"
 			],
@@ -631,20 +855,12 @@
 				"Word Wrap: Toggle"
 			],
 			[
-				"html",
-				"HTMLPrettify"
-			],
-			[
 				"selection",
 				"Tag: Remove All Tags in Selection"
 			],
 			[
 				"change",
 				"BracketHighlighter: Select Tag Name (closing and opening)"
-			],
-			[
-				"keybi",
-				"Preferences: Key Bindings - User"
 			],
 			[
 				"regexsn",
@@ -669,14 +885,6 @@
 			[
 				"javasc",
 				"Set Syntax: JavaScript"
-			],
-			[
-				"package",
-				"Preferences: Browse Packages"
-			],
-			[
-				"packages",
-				"Package Control: Discover Packages"
 			],
 			[
 				"color",
@@ -731,10 +939,6 @@
 				"Set Syntax: AppleScript"
 			],
 			[
-				"regex",
-				"Snippet: Regex: Match any character through End of File Ignoring line breaks (*2)"
-			],
-			[
 				"conver",
 				"Indentation: Convert to Spaces"
 			],
@@ -757,10 +961,6 @@
 			[
 				"syntax: ",
 				"Set Syntax: MultiMarkdown"
-			],
-			[
-				"bash",
-				"Set Syntax: Shell Script (Bash)"
 			],
 			[
 				"set syntax: ba",
@@ -837,86 +1037,6 @@
 			[
 				"prefere",
 				"Preferences: Settings - Default"
-			],
-			[
-				"preferen",
-				"Preferences: Settings - User"
-			],
-			[
-				"scopea",
-				"Package Control: Discover Packages"
-			],
-			[
-				"browse",
-				"Preferences: Browse Packages"
-			],
-			[
-				"pack",
-				"Package Control: Install Package"
-			],
-			[
-				"user",
-				"Preferences: Settings - User"
-			],
-			[
-				"json",
-				"Set Syntax: JSON"
-			],
-			[
-				"aspx",
-				"Snippet: ASPX Comment (server side) "
-			],
-			[
-				"Preferences: ",
-				"Preferences: Browse Packages"
-			],
-			[
-				"key",
-				"Preferences: Key Bindings - Default"
-			],
-			[
-				"open fil",
-				"View: Toggle Open Files in Side Bar"
-			],
-			[
-				"File",
-				"View: Toggle Open Files in Side Bar"
-			],
-			[
-				"syntax html",
-				"Set Syntax: HTML (ASP)"
-			],
-			[
-				"autocom",
-				"SublimeCodeIntel: Disable Live Autocompletion"
-			],
-			[
-				"syntax c",
-				"Set Syntax: C#"
-			],
-			[
-				"mink",
-				"Set Syntax: MultiMarkdown"
-			],
-			[
-				"packag",
-				"Package Control: Install Package"
-			],
-			[
-				"package control",
-				"Package Control: Upgrade Package"
-			],
-			[
-				"package con",
-				"Package Control: Grab CA Certs"
-			],
-			[
-				"diff",
-				"FileDiffs: Menu"
-			],
-			[
-				"",
-				"Bookmarks: Select Previous"
 			]
 		],
 		"width": 737.0
@@ -926,6 +1046,10 @@
 		"height": 231.0,
 		"history":
 		[
+			"sublime.log_commands(True); #True/False",
+			"sublime.log_commands(False); #True/False",
+			"reg_replace",
+			"sublime.log_commands(True); #True/False",
 			"sublime.log_commands(False); #True/False",
 			"sublime.log_commands(True); #True/False",
 			"sublime.log_commands(False); #True/False",
@@ -1044,6 +1168,91 @@
 	},
 	"file_history":
 	[
+		"/Applications/My Mac Apps/Spectacle.app/Contents/Resources/en.lproj/SpectaclePreferencesWindow.nib",
+		"/Applications/My Mac Apps/Spectacle.app/Contents/Frameworks/ZeroKit.framework/Versions/A/Headers/ZKConstants.h",
+		"/Applications/My Mac Apps/Spectacle.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Info.plist",
+		"/Applications/My Mac Apps/Spectacle.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/en.lproj/Sparkle.strings",
+		"/Applications/My Mac Apps/Spectacle.app/Contents/Frameworks/Sparkle.framework/Versions/A/Headers/SUVersionDisplayProtocol.h",
+		"/Applications/My Mac Apps/Spectacle.app/Contents/Frameworks/Sparkle.framework/Versions/A/Headers/Sparkle.h",
+		"/Applications/My Mac Apps/Spectacle.app/Contents/Info.plist",
+		"/Applications/My Mac Apps/Spectacle.app/Contents/Resources/en.lproj/Spectacle.nib",
+		"/Applications/My Mac Apps/Spectacle.app/Contents/Resources/en.lproj/Localizable.strings",
+		"/Applications/My Mac Apps/Spectacle.app/Contents/Resources/en.lproj/InfoPlist.strings",
+		"/Applications/My Mac Apps/Spectacle.app/Contents/Resources/HotKeyNames.plist",
+		"/Applications/Slate.app/Contents/Resources/initialize.js",
+		"/Applications/Slate.app/Contents/Resources/underscore.js",
+		"/Applications/Slate.app/Contents/Resources/utils.js",
+		"/Applications/My Mac Apps/Spectacle.app/Contents/Resources/Defaults.plist",
+		"/Applications/Slate.app/Contents/Resources/default.slate",
+		"/Applications/Slate.app/Contents/Info.plist",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/bwagner/Remote/Dropbox/newfile.txt",
+		"/Users/bwagner/.slate",
+		"/Users/bwagner/Desktop/form-br.html",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Macros/split-lines.sublime-macro",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/SCSS.sublime-settings",
+		"/Users/bwagner/.slate.js",
+		"/Applications/My Mac Apps/Spectacle.app/Contents/Resources/BlacklistedApplications.plist",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Default.sublime-commands",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Macros/cooper-update-package-commands.sublime-macro",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/reg_replace.sublime-settings",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Macros/bracket-fix.sublime-macro",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Macros/new-macro.sublime-macro",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/RegReplace/Main.sublime-menu",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/Terminal/Base File.sublime-settings",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/JsFormat.sublime-settings",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/Theme - Default/Widget.sublime-settings",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (OSX).sublime-keymap",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Macros/test.sublime-macro",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Macros/.new-macro.sublime-macro",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Macros/align-css.sublime-macro",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/Preset Command/Default (OSX).sublime-keymap",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/${packages}/User/Macros/.new-macro.sublime-macro",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Macros",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/Default/Syntax Summary.cache",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/Default/Ignored Packages.cache",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/Default/Indexed Symbol List.tmPreferences.cache",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Presets.sublime-settings",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/ActionScript/ActionScript.tmLanguage",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/RegReplace/Default.sublime-commands",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Builds/grunt.sublime-build",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/bwagner/Desktop/cacerts.json",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/SublimeSettings.sublime-project",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Builds/scss.sublime-build",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Builds/GULP.sublime-build",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/remove-extra-lines.sublime-macro.bak",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Package Control.system-ca-bundle",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Package Control.last-run",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/hosts.sublime-settings",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/RegReplace/reg_replace.sublime-settings",
+		"/Users/bwagner/Desktop/User/RegReplace/Main.sublime-menu",
+		"/Users/bwagner/Desktop/User/Default (OSX).sublime-keymap",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Default (Mac).sublime-keymap",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+		"/Users/bwagner/.extra.bashrc",
+		"/Users/bwagner/.bash_aliases",
+		"/Users/bwagner/.bash_functions",
+		"/Users/bwagner/Desktop/User/RegReplace/Default.sublime-commands",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Macros/strip-tbody-tags.sublime-macro",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Macros/regexTest.sublime-macro",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Macros/remove-tbody-tags.sublime-macro",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Builds/scss copy.sublime-build",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/Applications/Xcode.app/Contents/Applications/Application Loader.app/Contents/MacOS/itms/java/lib/security/cacerts",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/untitled",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/RegReplace/User/reg-replace.sublime-commands",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Cache/Regular Expressions/RegExp.tmLanguage.cache",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Installed Packages/RegReplace.sublime-package",
+		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/RegReplace/${packages}/User/reg-replace.sublime-commands",
 		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Snippets/My-Sublime.sublime-project",
 		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Snippets/_regex-find-all-extra-line-breaks.sublime-snippet",
 		"/Applications/MAMP/conf/apache/extra/httpd-vhosts.conf",
@@ -1055,7 +1264,6 @@
 		"/Users/bwagner/Projects/Bookmarks/useful-code-snippets/templates/html-web/sample-2/html-web/template-xhtml-1-strict.html",
 		"/private/etc/hosts",
 		"/Users/bwagner/Desktop/_Cooper Updates/Old Snippets/CooperMastercraft/videos-editable-region.html",
-		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/bwagner/Desktop/_Cooper Updates/SNIPPETS/Video Snippets/coopertirecanada-vimeo-embed-code.htm",
 		"/Users/bwagner/Desktop/_Cooper Updates/SNIPPETS/Video Snippets/vimeo-video-embed-list.htm",
 		"/Users/bwagner/Desktop/_Cooper Updates/SNIPPETS/CooperMastercraft/vimeo-video-embed-list.htm",
@@ -1063,8 +1271,6 @@
 		"/Users/bwagner/Desktop/_Cooper Updates/SNIPPETS/Video Snippets/OLD-brightcove-corporate.txt",
 		"/Users/bwagner/Desktop/_Cooper Updates/SNIPPETS/Video Snippets/newfile.txt",
 		"/Users/bwagner/Desktop/_Cooper Updates/SNIPPETS/Video Snippets/coopertirecorporate-vimeo-embed-code.txt",
-		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/CSS.sublime-settings",
 		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/CooperMastercraft/v2_CooperMastercraft_FontUpdate_30Jan2014-1/readme.txt",
 		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/CooperMastercraft/v2_CooperMastercraft_FontUpdate_30Jan2014-1/App_Themes/CooperMastercraft/css/base.css",
@@ -1089,93 +1295,11 @@
 		"/Users/bwagner/Library/Caches/Cleanup At Startup/Transmit/C33BEBAB-AFB7-4264-B96C-01567C1C29E9/LockBackground.html",
 		"/Users/bwagner/Library/Caches/Cleanup At Startup/Transmit/5D1E4807-B019-4424-B81F-8632DE51ADAF/shake.js",
 		"/Users/bwagner/Library/Caches/Cleanup At Startup/Transmit/98800925-5B65-45FA-820C-1C7ADD758646/weather.js",
-		"/Users/bwagner/Downloads/Bob's Burgers Season 3/Bob's Burgers Season 3 720p.txt",
-		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/Maintenance/NEW/CooperTire_VideoUpdates/3_VimeoEmbedUpdate_CooperTireMexico_29Jan2014/readme.txt",
-		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/Maintenance/NEW/CooperTire_VideoUpdates/2_VimeoEmbedUpdate_CooperTireCanada_29Jan2014/readme.txt",
-		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/Maintenance/NEW/CooperTire_VideoUpdates/3_VimeoEmbedUpdate_CooperTireMexico_29Jan2014/coopertirecanada-vimeo-embed-code.txt",
-		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/Maintenance/NEW/CooperTire_VideoUpdates/CooperTireCanada_VideoEmbedUpdate_29Jan2014/readme.txt",
-		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/Maintenance/NEW/CooperTire_VideoUpdates/CooperTireCanada_VideoEmbedUpdate_29Jan2014/coopertirecanada-vimeo-embed-code.txt",
-		"/Users/bwagner/Desktop/Brightcove_cooperMexico_Old.html",
-		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/Maintenance/NEW/CooperTire_VideoUpdates/CooperTireRoadmaster_VimeoEmbedUpdate_29Jan2014/roadmaster-vimeo-embed-code.txt",
-		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/Maintenance/NEW/CooperTire_VideoUpdates/CooperTireCanada_VideoEmbedUpdate_29Jan2014/coopertirecanada-vimeo-embed-code.html",
-		"/Users/bwagner/Documents/roadmaster-vimeo-embed-code.html",
-		"/Volumes/wwwroot/cooper-tire/site/App_Themes/CooperRoadmaster/css/styles.css",
-		"/Volumes/wwwroot/cooper-tire/documentation/completed-tasks/Roadmaster Site/Roadmaster_MobileHomepageVideoFix_19Sept2013/ReadMe.txt",
-		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/Maintenance/NEW/CooperTire_VideoUpdates/CooperTireRoadmaster_VimeoEmbedUpdate_29Jan2014/readme.txt",
-		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/Maintenance/NEW/CooperTire_VideoUpdates/CooperTireRoadmaster_VimeoEmbedUpdate_29Jan2014/coopertirecanada-vimeo-embed-code.html",
-		"/Users/bwagner/Desktop/_Cooper Updates/UPDATES/Maintenance/NEW/CooperTire_VideoUpdates/CooperTireCanada_VideoEmbedUpdate_29Jan2014/OLD_BRIGHTCOVE_coopertirecanada-vimeo-embed-code.html",
-		"/Volumes/wwwroot/cooper-tire/documentation/completed-tasks/README Files/ReadMe_CooperRebatesCanadaWinter_25Sept2013.txt",
-		"/Volumes/wwwroot/cooper-tire/documentation/completed-tasks/Consumer Mobile Sites (CA, MX and old US)/MexicoMobileSite_Updates_27Sept2013/MexicoMobileSite_Updates_27Sept2013_ReadMe copy.txt",
-		"/Volumes/wwwroot/cooper-tire/documentation/completed-tasks/README Files/Mexico_ImageMap_Updates.txt",
-		"/Volumes/wwwroot/cooper-tire/documentation/completed-tasks/README Files/ReadMe_MastercraftRebates_Update_22Sept2013.txt",
-		"/Volumes/wwwroot/cooper-tire/documentation/completed-tasks/README Files/readme_08-23-2012.txt",
-		"/Volumes/wwwroot/cooper-tire/documentation/completed-tasks/README Files/sample-video-page.txt",
-		"/Volumes/wwwroot/cooper-tire/documentation/completed-tasks/README Files/sample-video-embed.txt",
-		"/Users/bwagner/Desktop/_COOPER_BIN/UPDATES/Maintenance/NEW/CooperTireCanada_FooterLinkFix_29Jan2014/readme.txt",
-		"/Volumes/Users/bwagner/Desktop/newfile.txt",
-		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Themes/JavaScript.tmTheme",
-		"/Users/bwagner/Remote/Dropbox/Apps/Sublime Text 3/Packages/User/Monokai Bright (SL).tmTheme",
-		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
-		"/Volumes/wwwroot/cooper-tire/site/CMSSiteUtils/Import/Data 2/Objects/cms_licensekey.xml.export",
-		"/Users/bwagner/Desktop/Data 2/Objects/cms_licensekey.xml.export",
-		"/Users/bwagner/Desktop/Data/Objects/cms_licensekey.xml.export",
-		"/Volumes/wwwroot/cooper-tire/site/App_Themes/CooperTiresCanada/js/base.js",
-		"/Users/bwagner/Desktop/_COOPER_BIN/UPDATES/Maintenance/NEW/CooperTireCanada_FooterLinkFix_29Jan2014/App_Themes/CooperTiresCanada/js/base.js",
-		"/Users/bwagner/Desktop/Desktop Cleanup/_CooperTiresConsumer_FullSite_ExportForNavigator_07Oct2013/Data/Objects/cms_licensekey.xml.export",
-		"/Users/bwagner/User Customization/Applications/Google/Chrome/Extensions/Previous Tab/background.js",
-		"/Users/bwagner/Library/Application Support/Sublime Text 3/Index/001209.sst",
-		"/Users/bwagner/Library/Application Support/Sublime Text 3/Cache/Color Scheme - Default/Monokai.tmTheme.cache",
-		"/Users/bwagner/Library/Application Support/Sublime Text 3/Installed Packages/Monokai Extended.sublime-package",
-		"/Users/bwagner/Library/Application Support/Sublime Text 3/Cache/Monokai Extended/Monokai Extended Bright.tmTheme.cache",
-		"/Users/bwagner/Desktop/Desktop Cleanup/CooperTireConsumer2013_SiteRefresh_InitialSiteExport_29Oct2013/ReadMe.txt",
-		"/Volumes/wwwroot/cooper-tire/site/web.config.2",
-		"/Volumes/wwwroot/cooper-tire/site/web.config.bak",
-		"/Users/bwagner/Desktop/Fahlgren-Timesheet.txt",
-		"/Users/bwagner/Remote/Dropbox/Development/Projects/useful-code-snippets/javascript/my-jquery-functions.js",
-		"/Applications/Citrix Receiver.app/Contents/Helpers/Citrix Access Gateway copy",
-		"/Volumes/Col02/Clients - COL/Fahlgren Mortine - ALL/Fahlgren Administration - FATIME/Digital Admin/Development/HTML/2011-03-02/html-email/index.html",
-		"/Users/bwagner/Desktop/parking-ticket-letter-23january2013.txt",
-		"/Users/bwagner/Remote/Dropbox/0EE68E69.asc",
-		"/Users/bwagner/Remote/Dropbox/Icon",
-		"/Users/bwagner/Remote/Dropbox/do-transmit-db-backup.txt",
-		"/Library/Preferences/com.box.sync.plist",
-		"/Applications/Box Sync.app/Contents/Resources/FinderPlugin.bundle/Contents/Info.plist",
-		"/Users/bwagner/Remote/Google Drive/Backup & Recovery/System Files/Mac OS/plist/Library/Preferences/com.box.sync.plist",
-		"/Users/bwagner/.Trash/com.box.sync/Cache.db",
-		"/Applications/Box Sync.app/Contents/Info.plist",
-		"/Users/bwagner/.bash_functions",
-		"/Users/bwagner/.bashrc",
-		"/Users/bwagner/.bash_aliases",
-		"/Applications/Box Sync.app/Contents/PkgInfo",
-		"/Users/bwagner/Desktop/javascript/my-jquery-functions.js",
-		"/Users/bwagner/Projects/personal/App/iOS/Cydia/CCLoader/README.md",
-		"/Users/bwagner/Desktop/_COOPER_BIN/UPDATES/CooperMastercraft/CooperMastercraft_FontUpdate_22Jan2014/readme.txt",
-		"/Volumes/wwwroot/cooper-tire/documentation/readme-template.txt",
-		"/Users/bwagner/Desktop/_COOPER_BIN/UPDATES/Maintenance/DELIVERED/Mastercraft_FooterUpdate_19Jan2014/readme.txt",
-		"/Users/bwagner/Desktop/_COOPER_BIN/UPDATES/CooperMastercraft/CooperMastercraft_FontUpdate_22Jan2014/App_Themes/CooperMastercraft/css/base.css",
-		"/Users/bwagner/Desktop/_COOPER_BIN/UPDATES/CooperMastercraft/CooperMastercraft_FontUpdate_22Jan2014/App_Themes/CooperMastercraft/js/base.js",
-		"/Users/bwagner/Desktop/_COOPER_BIN/UPDATES/CooperMastercraft/CooperMastercraft_FontUpdate_22Jan2014/CMSTemplates/CooperMastercraft/CooperMastercraft.master",
-		"/Volumes/Users/bwagner/Projects/Sites/cooper-tire/site/CMSTemplates/CooperTireConsumer2013/masterpages/site.master",
-		"/Volumes/Users/bwagner/Projects/Sites/cooper-tire/site/App_Themes/CooperMastercraft/js/base.js",
-		"/Volumes/Users/bwagner/Projects/Sites/cooper-tire/site/App_Themes/CooperMastercraft/css/base.css",
-		"/Volumes/Users/bwagner/Projects/Sites/cooper-tire/site/CMSTemplates/CooperMastercraft/CooperMastercraft.master",
-		"/Volumes/Users/bwagner/Projects/Sites/cooper-tire/site/App_Themes/CooperTireConsumer2013/assets/css/base.css",
-		"/Users/bwagner/Downloads/mastercraft-22012014/demo.htm",
-		"/Users/bwagner/Projects/personal/inspector-stylesheets/pt-com.css",
-		"/Users/bwagner/Downloads/mastercraft-22012014/demo.css",
-		"/Users/bwagner/Remote/Google Drive/Icon",
-		"/Users/bwagner/Remote/Google Drive/.DS_Store",
-		"/Users/bwagner/Remote/Dropbox/.DS_Store",
-		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/bh_core.sublime-settings",
-		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/C#.sublime-settings",
-		"/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Snippets/toggle-log-commands.sublime-snippet",
-		"/Users/bwagner/Library/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/untitled",
-		"/Users/bwagner/Library/Users/bwagner/Library/Application Support/Sublime Text 3/Packages/User/Snippets/toggle-log-commands.sublime-snippet",
-		"/Users/bwagner/Projects/school-choice-ohio/website/web-root/connectors/config.core.php"
+		"/Users/bwagner/Downloads/Bob's Burgers Season 3/Bob's Burgers Season 3 720p.txt"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -1197,6 +1321,54 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"bottom",
+			"space",
+			":${hyper}         resize +",
+			":${hyper}         resize ",
+			"bind [:${hyper}         resize",
+			":${hyper}         resize",
+			"{hyper}",
+			"td",
+			"mon-",
+			"center",
+			"2-le",
+			"bottom-",
+			"mon-samsung",
+			"resize",
+			"=",
+			"cmd;alt;shift",
+			"window",
+			"l ",
+			"l",
+			"cmd;cmd;",
+			"shift;cmd;alt;shift",
+			"alt ",
+			"alt",
+			"key",
+			"%",
+			"\\n(.\\s*?)\\]",
+			"\\n(.\\s*?)\"",
+			"palle",
+			"name",
+			"command",
+			"palle",
+			"command_",
+			"context",
+			"\\b",
+			"bra",
+			"brack",
+			"b",
+			"brac",
+			"bra",
+			"\\{\\n([\\S]*?\\W*?)(\".*)\\n\\W*?\\}",
+			"newl",
+			"CMSTemplates/CooperTiresCorporate/master.aspx\n\n\nCMSTemplates/CooperTiresCorporate/master.aspx.cs\nApp_Themes/CooperTires/css/base.css",
+			"regre",
+			"subl",
+			"sync",
+			"reg_replace",
+			"command",
+			"reg_replace",
 			"\n\\",
 			"\n		",
 			"\\C(.*)([\\s]*?)?\\n[\\n\\s]",
@@ -1276,55 +1448,7 @@
 			"timer",
 			"= 2",
 			"= 3",
-			"3",
-			"timer",
-			"3",
-			"ADJUSTDOM",
-			"font",
-			"embed",
-			"<system.webServer>\n          <httpProtocol>\n          <customHeaders>\n              <add name=\"Access-Control-Allow-Origin\" value=\"*\" />\n              <add name=\"Access-Control-Allow-Methods\" value=\"GET,PUT,POST,DELETE,OPTIONS\" />\n              <add name=\"Access-Control-Allow-Headers\" value=\"Content-Type\" />\n          </customHeaders>\n      </httpProtocol>\n  </system.webServer>",
-			"Access-Control-Allow-Origin",
-			"add name=\"Access-Control-Allow-Origin",
-			"add name=\"Access-Control-Allow-Origin\" value=\"*\"",
-			"dev.mastercraf",
-			"sync",
-			"Users",
-			"location",
-			"Box Sy",
-			"~/",
-			"load",
-			"head",
-			"cooper",
-			"elementsby",
-			"elements",
-			"classna",
-			"<p>###(.*?)</p>",
-			"cufon",
-			"shadow:.?0.05em ",
-			".5em",
-			"cufon",
-			"loadConten",
-			"initC",
-			"initc",
-			"init",
-			"initCu",
-			"\\n\\n\\n",
-			"initcuf",
-			"cufon",
-			"script",
-			"cufon",
-			"content-box",
-			"box-sizing:border-box;",
-			"max-width:",
-			"-100",
-			"padding-left",
-			"left:",
-			"left",
-			"29%",
-			"3%",
-			"34%",
-			"33%",
-			"32%"
+			"3"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1332,6 +1456,16 @@
 		"regex": true,
 		"replace_history":
 		[
+			"screenOriginY",
+			"mon-main",
+			"${hyper} ",
+			"cmd;",
+			"cmd;alt;shift",
+			" ]",
+			" \"",
+			"{ \\2 }",
+			"  /* Insert Html Break Tag */\n      {\n        \"keys\": [ \"alt+b\" ],\n        \"command\": \"run_macro_file\",\n        \"args\": {\"file\": \"Packages/User/Macros/html-br-insert.sublime-macro\"}\n        },\n",
+			"      {\n        \"keys\": [ \"alt+b\" ],\n        \"command\": \"run_macro_file\",\n        \"args\": {\n          \"file\": \"Packages/User/Macros/html-br-insert.sublime-macro\"\n        }\n        },",
 			"\\n<",
 			">\\n<",
 			"Arial, Helvetica",
@@ -1449,17 +1583,7 @@
 			"Select a type for this item",
 			"<br/>",
 			"<%@ Control Language=\"C#\" AutoEventWireup=\"true\" CodeFile=\"Testimonials.ascx.cs\" Inherits=\"CMSWebParts_CooperTire_CooperTireConsumer2013_CooperTestimonials\" %>\n\n<cms:CMSRepeater ID=\"uc_testimonials_repeater\" runat=\"server\" ClassNames=\"CooperTire.GenericItem\" TransformationName=\"CooperTire.GenericItem.Testimonial\" OrderBy=\"NodeLevel, NodeOrder, NodeName\" Visible=\"true\" Path=\"/Testimonials/%\"> </cms:CMSRepeater>\n\n\n\n<script type=\"text/javascript\">\n// Kentico Custom Helpers\nvar KenticoCustom = KenticoCustom || {};\n\nKenticoCustom.AccessParentFrames = function() {\n    var parentFrame = window.parent.document.getElementById('pageview').outerHTML;\n\n    if (parentFrame.indexOf('nodeid=1208') > -1) {\n        var objCustomStyle = document.createElement('style');\n        objCustomStyle.innerHTML = 'tr.homepage {display:table-row!important;} .default {display:none!important;} span.homepage{display:nine!important;}';\n        document.body.appendChild(objCustomStyle);\n\n    }\n}\n\nwindow.onload = function() {\n    var AccessParentFrames = new KenticoCustom.AccessParentFrames();\n}\n</script>\n\n<table id=\"default\" class=\"global-type\">\n    <tbody>\n        <tr id=\"global-id\" class=\"global\">\n            <td>$$label:GenericCustomID$$</td>\n            <td>$$input:GenericCustomID$$<br />\n            $$validation:GenericCustomID$$</td>\n        </tr>\n        <tr id=\"global-type\" class=\"global type\">\n            <td>$$label:GenericCustomType$$</td>\n            <td>$$input:GenericCustomType$$<br />\n            $$validation:GenericCustomType$$</td>\n        </tr>\n        <tr id=\"global-title\" class=\"global title\">\n            <td>$$label:GenericCustomTitle$$</td>\n            <td>$$input:GenericCustomTitle$$<br />\n            $$validation:GenericCustomTitle$$</td>\n        </tr>\n    </tbody>\n</table>\n\n\n\n<table id=\"testimonials\" class=\"type\">\n    <tbody>\n        <tr id=\"testimonial-content\" class=\"testimonial content\">\n            <td>$$label:GenericCustomLongText$$</td>\n            <td>$$input:GenericCustomLongText$$<br />\n            $$validation:GenericCustomLongText$$</td>\n        </tr>\n        <tr id=\"testimonial-author\" class=\"testimonial author\">\n            <td>$$label:TestimonialAuthor$$</td>\n            <td>$$input:TestimonialAuthor$$<br />\n            $$validation:TestimonialAuthor$$</td>\n        </tr>\n\n    </tbody>\n</table>\n\n\n    \n\n\n<table id=\"link-url\" class=\"type\">\n    <tbody>\n     <tr>\n            <td>$$label:GenericCustomURL$$</td>\n            <td>$$input:GenericCustomURL$$<br />\n            $$validation:GenericCustomURL$$</td>\n        </tr>\n</tbody>\n</table>",
-			"ADD VEHICLE",
-			"'",
-			"Cooper.TireNavigator.FocusInputText();",
-			"strCurrentCar",
-			"objCurrentCar",
-			"objCarNameInput",
-			"objSavedCars",
-			"strCarName",
-			"objCarName",
-			"objSavedCars",
-			"#saved-vehicles"
+			"ADD VEHICLE"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -1477,7 +1601,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 26.0
 	},
 	"input":
 	{
@@ -1525,14 +1649,22 @@
 	"project": "My-Sublime.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 64.0
 	},
-	"save_all_on_build": true,
+	"save_all_on_build": false,
 	"select_file":
 	{
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				".slate",
+				"/Applications/Slate.app/Contents/Resources/default.slate"
+			],
+			[
+				"jsformat",
+				"JsFormat.sublime-settings"
+			],
 			[
 				"defau",
 				"CMSTemplates (Cooper Tire Consumer 2013)/default.aspx"

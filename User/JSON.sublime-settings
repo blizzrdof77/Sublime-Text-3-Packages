@@ -2,6 +2,9 @@
 	"extensions":
 	[
 		"sublime-commands",
-		".jsbeautifyrc"
+		".jsbeautifyrc",
+		".js",
+		".json",
+		"sublime-macro"
 	]
 }

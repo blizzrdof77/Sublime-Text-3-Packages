@@ -1,0 +1,60 @@
+/*
+  COMMAND PRESETS
+*/
+[
+
+// PREFERENCE MANAGEMENT
+// -----------------------
+	{
+		"caption": "Preferences: Manage Custom Commands * ",
+		"command": "open_file",
+		"args": { "file": "${packages}/User/Default.sublime-commands" }
+	},
+	{
+			"caption": "Preferences: Manage RegReplace Operations * ",
+			"command": "open_file",
+			"args": { "file": "${packages}/User/reg_replace.sublime-settings" }
+	},
+	{
+		//"keys" : ["super+k", "super+p", "super+m"],
+		"caption": "Show Macros In Finder * ",
+		"command": "open_dir",
+		"args": { "dir": "${packages}/User/Macros" }
+		
+	},
+	{
+		//"keys" : ["super+k", "super+p", "super+m"],
+		"caption": "Create New Macro * ",
+		"command": "open_file",
+		"args": { "file": "${packages}/User/Macros/new-macro.sublime-macro" }
+		
+	},
+	{
+		//"keys" : ["super+k", "super+p", "super+m"],
+		"caption": "Preferences: Manage Main Sublime Menu * ",
+		"command": "open_file",
+		"args": { "file": "${packages}/RegReplace/Main.sublime-menu" }		
+	},
+	
+
+// OTHER ACTIONS
+// ---------------
+	{
+		"caption": "Reg Replace: HTML5 Remove Deprecated Type Attr",
+		"command": "reg_replace",
+		"args": {"replacements": ["html5_remove_deprecated_type_attr"]}
+	},
+	{
+		"caption": "Reg Replace: Remove Trailing Spaces",
+		"command": "reg_replace",
+		"args": {"replacements": ["remove_trailing_spaces"]}
+	},
+	
+	// CHAINED REPLACEMENTS IN ONE COMMAND
+	/* {
+		"caption": "Reg Replace: Remove HTML Comments and Trailing Spaces",
+		"command": "reg_replace",
+		"args": {"replacements": ["remove_html_comments", "remove_trailing_spaces"]}
+	}, */
+
+]

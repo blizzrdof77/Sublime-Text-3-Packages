@@ -1,0 +1,9 @@
+[
+  {
+    "args": 
+    {
+      "replacements": ["collapse_braces"] 
+    },
+    "command": "reg_replace"
+  }
+]

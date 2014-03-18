@@ -278,11 +278,19 @@
             "case": false
         },
         "cooper_update_package_commands": {
-            "find": "(.*?)\\/(.*?)\\/(.*?)?(\\/)?(.*)",
+            "find": "(.*?)\/(.*?)\/(.*?)?(\/)?(.*)",
             "replace": "cp \\1/\\2/\\3 /Users/bwagner/Desktop/_CooperUpdates/UPDATES/CoopoerCorporate/Update/\\1/\\2/\\3",
-            "greedy": true,
-            "case": true
-        }
+            "greedy_replace": true,
+            "case": false
+        },
+        "collapse_braces": {
+            "find": "\\{\\n([\\S]*?\\W*?)([\"].*)\\n\\W*?\\}",
+            "replace": "cp \\1\\2",
+            "greedy_replace": true,
+            "case": false
+        },
+        
+        
         
     },
 

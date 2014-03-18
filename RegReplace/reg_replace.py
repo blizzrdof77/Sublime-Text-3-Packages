@@ -1,8 +1,8 @@
-'''
+"""
 Reg Replace
 Licensed under MIT
 Copyright (c) 2011 - 2012 Isaac Muse <isaacmuse@gmail.com>
-'''
+"""
 
 import sublime
 import sublime_plugin
@@ -15,7 +15,6 @@ DEFAULT_HIGHLIGHT_STYLE = 'outline'
 DEFAULT_MULTI_PASS_MAX_SWEEP = 100
 MAX_UNFOLD_THRESHOLD = 1000
 MODULE_NAME = 'RegReplace'
-rrsettings = sublime.load_settings('reg_replace.sublime-settings')
 
 
 def underline(regions):
@@ -28,6 +27,21 @@ def underline(regions):
             new_regions.append(sublime.Region(start))
             start += 1
     return new_regions
+
+
+class RegReplaceGlobal(object):
+    bfr = None
+    region = None
+
+    @classmethod
+    def clear(cls):
+        cls.bfr = None
+        cls.region = None
+
+
+class RegReplaceApplyCommand(sublime_plugin.TextCommand):
+    def run(self, edit):
+        self.view.replace(edit, RegReplaceGlobal.region, RegReplaceGlobal.bfr)
 
 
 class RegReplaceInputCommand(sublime_plugin.WindowCommand):
@@ -183,19 +197,11 @@ class RegReplaceListenerCommand(sublime_plugin.EventListener):
         self.highlights = []
         self.folds = []
         self.unfolds = []
-        self.action = None
         self.multi_pass = False
         self.options = {}
         if self.find_replacements(view):
-            edit = view.begin_edit()
-            reg_replace_cmd = RegReplaceCommand(view)
             for replacements in self.replacements:
-                reg_replace_cmd.run(
-                    edit,
-                    replacements=replacements['sequence'],
-                    multi_pass=replacements['multi_pass'],
-                    no_selection=True
-                )
+                self.apply(view, replacements['sequence'], multi_pass=replacements["multi_pass"])
 
             if len(self.highlights) > 0:
                 self.apply(view, self.highlights, action="mark", options=self.options)
@@ -205,8 +211,6 @@ class RegReplaceListenerCommand(sublime_plugin.EventListener):
 
             if len(self.unfolds) > 0:
                 self.apply(view, self.unfolds, action="unfold")
-
-            view.end_edit(edit)
 
 
 class RegReplaceCommand(sublime_plugin.TextCommand):
@@ -270,6 +274,7 @@ class RegReplaceCommand(sublime_plugin.TextCommand):
             key,
             self.target_regions,
             color,
+            "",
             highlight_style
         )
 
@@ -307,9 +312,10 @@ class RegReplaceCommand(sublime_plugin.TextCommand):
         # Show Results in read only panel and clear selection in panel
         window.run_command('show_panel', {'panel': 'output.reg_replace_results'})
         view.set_read_only(False)
-        edit = view.begin_edit()
-        view.replace(edit, sublime.Region(0, view.size()), 'RegReplace Results\n\n' + text)
-        view.end_edit(edit)
+        RegReplaceGlobal.bfr = 'RegReplace Results\n\n' + text
+        RegReplaceGlobal.region = sublime.Region(0, view.size())
+        view.run_command("reg_replace_apply")
+        RegReplaceGlobal.clear()
         view.set_read_only(True)
         view.sel().clear()
 
@@ -600,7 +606,7 @@ class RegReplaceCommand(sublime_plugin.TextCommand):
                         self.target_regions.append(region)
                     else:
                         self.view.replace(self.edit, region, extraction)
-        except Exception, err:
+        except Exception as err:
             sublime.error_message('REGEX ERROR: %s' % str(err))
             return total_replaced
 
@@ -629,7 +635,7 @@ class RegReplaceCommand(sublime_plugin.TextCommand):
                     break
                 else:
                     count += 1
-        except Exception, err:
+        except Exception as err:
             sublime.error_message('REGEX ERROR: %s' % str(err))
             return total_replaced
 
@@ -650,7 +656,7 @@ class RegReplaceCommand(sublime_plugin.TextCommand):
                         reverse_count -= 1
                     else:
                         break
-        except Exception, err:
+        except Exception as err:
             sublime.error_message('REGEX ERROR: %s' % str(err))
             return total_replaced
 
@@ -747,7 +753,7 @@ class RegReplaceCommand(sublime_plugin.TextCommand):
                     if dotall:
                         flags |= re.DOTALL
                     re_find = re.compile(find, flags)
-                except Exception, err:
+                except Exception as err:
                     sublime.error_message('REGEX ERROR: %s' % str(err))
                     return replaced
 
@@ -774,7 +780,7 @@ class RegReplaceCommand(sublime_plugin.TextCommand):
                 offset += r.size() - sel_size[count]
                 count += 1
             sels.clear()
-            map(lambda x: self.view.sel().add(x), new_sels)
+            sels.add_all(new_sels)
 
         return replaced
 
@@ -810,12 +816,13 @@ class RegReplaceCommand(sublime_plugin.TextCommand):
         # Find and format replacements
         extractions = []
         try:
+            # regions = self.view.find_all(find, flags, replace, extractions)
             if self.selection_only and not self.full_file:
                 for sel in sels:
                     regions += self.regex_findall(find, flags, replace, extractions, literal, sel)
             else:
                 regions = self.regex_findall(find, flags, replace, extractions, literal)
-        except Exception, err:
+        except Exception as err:
             sublime.error_message('REGEX ERROR: %s' % str(err))
             return replaced
 
@@ -840,7 +847,7 @@ class RegReplaceCommand(sublime_plugin.TextCommand):
                 offset += r.size() - sel_size[count]
                 count += 1
             sels.clear()
-            map(lambda x: self.view.sel().add(x), new_sels)
+            sels.add_all(new_sels)
 
         return replaced
 
@@ -984,3 +991,7 @@ class RegReplaceCommand(sublime_plugin.TextCommand):
                     self.print_results_panel(results)
                 else:
                     self.print_results_status_bar(results)
+
+def plugin_loaded():
+    global rrsettings
+    rrsettings = sublime.load_settings('reg_replace.sublime-settings')

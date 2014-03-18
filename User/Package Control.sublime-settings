@@ -1,13 +1,13 @@
 {
 	"channels":
 	[
-		"https://sublime.wbond.net/channel.json",
 		"https://sublime.wbond.net/channel.json"
 	],
 	"installed_packages":
 	[
 		"Alignment",
 		"All Autocomplete",
+		"ApplySyntax",
 		"Bracketeer",
 		"BracketHighlighter",
 		"ColorSchemeSelector",
@@ -26,11 +26,13 @@
 		"Missing Palette Commands",
 		"MODx Revolution Snippets",
 		"Monokai Extended",
+		"My Snippets",
 		"Open-Include",
 		"PersistentRegexHighlight",
 		"PHP Modern",
 		"Phpcs",
 		"Plist Binary",
+		"Preferences Editor",
 		"Preset Command",
 		"Quick File Open",
 		"RegReplace",
@@ -38,16 +40,19 @@
 		"SassBeautify",
 		"ScopeAlways",
 		"SCSS",
-		"Search Stack Overflow",
 		"Select By Regex",
 		"Select Quoted",
 		"SideBarEnhancements",
 		"SnippetMaker",
 		"Status Bar Extension",
+		"STProjectMaker",
 		"StringEncode",
+		"sublime-projecttreetemplater",
+		"sublime_prefixr",
 		"SublimeCodeIntel",
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-php",
+		"SyncedSideBar",
 		"Syntax Highlighting for Sass",
 		"Syntax Manager",
 		"Tag",
@@ -57,9 +62,8 @@
 	"repositories":
 	[
 		"https://github.com/timdouglas/sublime-less2css",
-		"https://github.com/SublimeLinter/SublimeLinter.git",
-		"https://github.com/ajryan/CSharpreter",
-		"https://github.com/facelessuser/RegReplace.git",
-		"https://github.com/facelessuser/RegReplace"
+		"https://github.com/SublimeLinter/SublimeLinter",
+		"https://github.com/julianxhokaxhiu/sublime-projecttreetemplater.git",
+		"https://github.com/wbond/sublime_prefixr.git"
 	]
 }
