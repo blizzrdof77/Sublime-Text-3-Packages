@@ -20,7 +20,9 @@
 	"ignored_packages":
 	[
 		"Vintage",
-		"Emmet"
+		"Emmet",
+		"Wind",
+		"TidyHTML5"
 	],
 	"indent_subsequent_lines": true,
 	"indent_to_bracket": true,
