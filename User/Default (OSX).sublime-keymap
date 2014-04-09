@@ -308,6 +308,11 @@
     "keys": ["super+k", "super+k", "super+d"],
     "command": "side_bar_duplicate"
   },
+  /* Rename Current File */
+  {
+    "keys": ["super+k", "super+k", "super+r"],
+    "command" : "side_bar_rename"
+  },
 
 
 /* 

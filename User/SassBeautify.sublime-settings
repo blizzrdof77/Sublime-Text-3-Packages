@@ -1,7 +1,7 @@
 {
 	"beautifyOnSave": false,
-	"blanklineBetweenSelectors": true,
-	"dasherize": false,
+	"blanklineBetweenSelectors": false,
+	//"dasherize": false,
 	"old": false,
 	"path": false
 }

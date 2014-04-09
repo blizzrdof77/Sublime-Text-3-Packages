@@ -1,16 +1,16 @@
 <snippet>
     <content><![CDATA[
 /**
- * Author:      $1
- * Date:    		$2
- * Description: $3
+  DATE:    		$1
+  DESCRIPTION:  $2
+  AUTHOR:       $3
 */
 
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>/header</tabTrigger>
+    <tabTrigger>/***</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <scope>source.css,source.js,source.php,source.cs,source.scss</scope>
+<!--     <scope>source.css,source.js,source.php,source.cs,source.scss</scope> -->
     <!-- Optional: Description to show in the menu -->
-    <description>/Comment Header</description>
+    <description>/Block Comment Header (Extended)</description>
 </snippet>
