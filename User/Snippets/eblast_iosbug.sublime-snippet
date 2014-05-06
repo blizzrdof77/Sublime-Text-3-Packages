@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<!--do not remove these lines: iOS (bug) buffer to force download of entire mail-->
+                                                                                                                                                
+                                                                                                                                                  
+                                                                                                                                                
+                                                                                                                                                  
+                                                                                                                                                
+                                                                                                                                                
+                                                                                                                                                  
+                                                                                                                                                
+                                                                                                                                                  
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>eblast_iosbug</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <description>Snippet: iOS buffer to force download of entire email (eblast_iosbug)</description>
+</snippet>

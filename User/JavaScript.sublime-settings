@@ -1,8 +1,9 @@
 {
-  "color_scheme": "Packages/User/Themes/JavaScript.tmTheme",
 	"auto_close_tags": false,
+	"auto_complete_delay": 1,
 	"auto_find_in_selection": true,
 	"auto_indent": true,
+	"color_scheme": "Packages/User/Themes/JavaScript.tmTheme",
 	"detect_indentation": true,
 	"find_selected_text": true,
 	"font_size": 13,
