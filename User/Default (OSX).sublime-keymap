@@ -1,21 +1,21 @@
-[
-/* 
+/*
   ---------------------------
   MY KEYBOARD SHORTCUTS (BJW)
   ---------------------------
 */
 
-/* 
-  CUSTOMIZE DEFAULT KEYBINDINGS 
+[
+/*
+  CUSTOMIZE DEFAULT KEYBINDINGS
 */
   /* Reindent (Global) */
   {
 
     "keys": ["super+shift+r"],
-    "command": "reindent", 
+    "command": "reindent",
     "args": { "single_line": false }
   },
-  /* HTML Prettify (Reindent/Reformat for HTML-like syntax) */  
+  /* HTML Prettify (Reindent/Reformat for HTML-like syntax) */
   {
     "keys": ["super+shift+k", "super+shift+r"],
     "command": "htmlprettify"
@@ -34,14 +34,14 @@
   { "keys": ["super+k", "super+f"], "command": "file_system_comp_trigger"},
 
 
-/* 
-  LINE OPERATIONS 
+/*
+  LINE OPERATIONS
 */
   /* Remove Empty Lines */
   {
     "keys": ["super+k", "super+l"],
-    "command": "run_macro_file",
-    "args": { "file": "Packages/User/Macros/remove-empty-lines.sublime-macro" }
+    "command": "delete_blank_lines",
+    "args": {"surplus": true}
   },
   /* Split Lines */
   {
@@ -55,17 +55,17 @@
     "command": "run_macro_file",
     "args": { "file": "Packages/User/Macros/join-passive-tags.sublime-macro" }
   },
-  
+
   /* Swap Line Up/Down */
-  { 
-    "keys": ["ctrl+alt+up"], "command": "swap_line_up" 
+  {
+    "keys": ["ctrl+alt+up"], "command": "swap_line_up"
   },
-  { 
-    "keys": ["ctrl+alt+down"], "command": "swap_line_down" 
+  {
+    "keys": ["ctrl+alt+down"], "command": "swap_line_down"
   },
 
-/* 
-  REG REPLACE MACROS  
+/*
+  REG REPLACE MACROS
 */
   /* Align CSS */
   {
@@ -100,7 +100,7 @@
 
 
 /*
-  TEXT INSERTION & SNIPPET OPERATIONS  
+  TEXT INSERTION & SNIPPET OPERATIONS
 */
   /* Insert Html Break Tag */
   {
@@ -110,8 +110,8 @@
   },
 
 
-/* 
-  TEXT TRANSFORMATION OPERATIONS 
+/*
+  TEXT TRANSFORMATION OPERATIONS
 */
   /* Case Transform */
   { "keys": ["alt+shift+u"], "command": "upper_case" },
@@ -154,59 +154,59 @@
     "args": { "file": "Packages/User/Macros/fahlgren-winderswap-fixes.sublime-macro" }
   },
 
-/* 
-  SELECTION MODIFIERS 
+/*
+  SELECTION MODIFIERS
 */
   /* Wrap Selection in HTML Tag */
-  { 
-    "keys": ["super+alt+,"], 
-    "command": "insert_snippet", 
+  {
+    "keys": ["super+alt+,"],
+    "command": "insert_snippet",
     "args": { "name": "Packages/XML/long-tag.sublime-snippet" }
   },
   /* Invert Selection */
   {
-     "keys": ["super+shift+i"], "command": "invert_selection" 
+     "keys": ["super+shift+i"], "command": "invert_selection"
   },
   /* Remove all tags in Selection */
   {
-    "keys": ["super+alt+backspace"], 
-    "command": "tag_remove_all_in_selection" 
+    "keys": ["super+alt+backspace"],
+    "command": "tag_remove_all_in_selection"
   },
   /*  Find/Replace All Using Current Selection */
   {
-     "keys": ["super+k", "super+k", "super+k"], "command": "find_all_under" 
+     "keys": ["super+k", "super+k", "super+k"], "command": "find_all_under"
   },
-  /* Auto-Format Tags in Selection */ 
+  /* Auto-Format Tags in Selection */
   {
-     "keys": ["super+shift+k", "super+shift+f" ], "command": "tag_indent" 
+     "keys": ["super+shift+k", "super+shift+f" ], "command": "tag_indent"
   },
   /* Attribute Transformations */
   {
-     "keys": ["super+alt+a", "super+alt+backspace" ], "command": "tag_remove_all_attributes_in_selection" 
+     "keys": ["super+alt+a", "super+alt+backspace" ], "command": "tag_remove_all_attributes_in_selection"
   },
     {
-     "keys": ["super+alt+a", "super+alt+enter" ], "command": "tag_remove_picked_attributes_in_selection" 
+     "keys": ["super+alt+a", "super+alt+enter" ], "command": "tag_remove_picked_attributes_in_selection"
   },
   /* Bracket Transformations */
   {
-     "keys": ["super+k", "super+k", "super+backspace" ], "command": "bh_remove_brackets" 
+     "keys": ["super+k", "super+k", "super+backspace" ], "command": "bh_remove_brackets"
   },
 
 
-/* 
-  EXPAND SELECTION TO.. 
+/*
+  EXPAND SELECTION TO..
 */
   /* Line.. */
   {
-     "keys": ["super+shift+l"], "command": "expand_selection", "args": {"to": "line"} 
+     "keys": ["super+shift+l"], "command": "expand_selection", "args": {"to": "line"}
   },
   /* Tag..  */
   {
-     "keys": ["super+shift+a"], "command": "expand_selection", "args": {"to": "tag"} 
+     "keys": ["super+shift+a"], "command": "expand_selection", "args": {"to": "tag"}
   },
   /* Word..  */
   {
-     "keys": ["super+shift+k", "super+shift+w"], "command": "expand_selection", "args": {"to": "word"} 
+     "keys": ["super+shift+k", "super+shift+w"], "command": "expand_selection", "args": {"to": "word"}
   },
   /* Paragraph..  */
   {
@@ -214,32 +214,32 @@
   },
   /* Scope.. */
   {
-     "keys": ["super+shift+space"], "command": "expand_selection", "args": {"to": "scope"} 
+     "keys": ["super+shift+space"], "command": "expand_selection", "args": {"to": "scope"}
   },
   /* Brackets.. */
   {
-     "keys": ["super+shift+m"], "command": "expand_selection", "args": {"to": "brackets"} 
+     "keys": ["super+shift+m"], "command": "expand_selection", "args": {"to": "brackets"}
   },
   /* Indent.. */
   {
-     "keys": ["super+shift+k", "super+shift+i"], "command": "expand_selection", "args": {"to": "indentation"} 
+     "keys": ["super+shift+k", "super+shift+i"], "command": "expand_selection", "args": {"to": "indentation"}
   },
   /* Quotes.. */
   {
      "keys": ["super+shift+'"], "command": "select_quoted"
   },
-    
-    
+
+
 /*
   SEND CURSOR BETWEEN..
 */
   /* Brackets.. */
-  { 
-    "keys": ["ctrl+m"], "command": "move_to", "args": {"to": "brackets"} 
+  {
+    "keys": ["ctrl+m"], "command": "move_to", "args": {"to": "brackets"}
   },
-  
-  
-/* 
+
+
+/*
   GOTO
 */
   /* Jump Back */
@@ -248,24 +248,24 @@
   { "keys": ["alt+shift+z"], "command": "jump_forward" },
 
 
-/* 
+/*
   PREFERENCES
 */
   /* Edit Preferences */
-  { 
-    "keys": ["super+k", "super+k", "super+p"], 
+  {
+    "keys": ["super+k", "super+k", "super+p"],
     "command": "edit_selected_preferences"
   },
-  
+
   /* Set Tab Sizes */
-  { 
-    "keys": ["super+k", "super+2"], "command": "set_setting", "args": {"setting": "tab_size", "value": 2} 
+  {
+    "keys": ["super+k", "super+2"], "command": "set_setting", "args": {"setting": "tab_size", "value": 2}
   },
-    { 
-    "keys": ["super+k", "super+4"], "command": "set_setting", "args": {"setting": "tab_size", "value": 4} 
+    {
+    "keys": ["super+k", "super+4"], "command": "set_setting", "args": {"setting": "tab_size", "value": 4}
     },
   /* Select Color Scheme */
-  { 
+  {
     "keys": ["super+k", "command+`"], "command": "select_color_scheme"
   },
   /* Edit User Keybindings */
@@ -273,7 +273,7 @@
     "keys": ["super+shift+k", "super+shift+k", "super+shift+k"],
     "command": "open_file",
     "args": { "file": "${packages}/User/Default (OSX).sublime-keymap", "platform": "OSX" }
-  }, 
+  },
   /* Manage RegReplace Operations */
   {
     "keys": ["super+shift+k", "super+shift+k", "super+shift+r"],
@@ -319,20 +319,20 @@
     "keys": ["super+shift+k", "super+shift+k", "super+shift+m"],
     "command" : "side_bar_move"
   },
-  
 
 
-/* 
-  SNIPPET STUFF 
+
+/*
+  SNIPPET STUFF
 */
   /* Make Snippet */
   {
-    "keys": ["super+k", "super+f", "super+p", "super+o"],
-    "command": "make_snippet"
-  }, 
-  /* Show Snippets  */
+    "keys": ["super+shift+k", "super+shift+n", "super+shift+s"],
+    "command": "new_snippet"
+  },
+  /* Show Snippets Overlay */
   {
-    "keys": ["super+alt+space"],
+    "keys": ["super+shift+k", "super+shift+s"],
     "command": "show_overlay",
     "args": { "overlay": "command_palette", "text": "Snippet: " }
   }

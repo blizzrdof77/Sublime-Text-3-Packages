@@ -1,6 +1,7 @@
 {
+	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin, meta.tag.block.any.html, string.quoted.double.html, punctuation.definition.string.end.html",
 	"extensions":
 	[
-		"cfm"
+		"*"
 	]
 }

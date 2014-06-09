@@ -1,0 +1,7 @@
+{
+	"auto_complete_delay": 0.2,
+	"auto_complete_size_limit": 9999,
+	"show_full_path": false,
+  "rulers": [79],
+  "wrap_width": 80
+}
